@@ -1,0 +1,6 @@
+- Author:: [[Susan Crawford]]
+- Full Title:: Fiber
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/41s5RQ5yljL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - South Korea’s extensive fiber optic network. The country is wired with 375,000 miles of fiber optic cables, ([Location 134](https://readwise.io/to_kindle?action=open&asin=B07L1434GS&location=134))

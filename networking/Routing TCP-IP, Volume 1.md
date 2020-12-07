@@ -1,0 +1,5 @@
+- Author:: [[Jeff Doyle]]
+- Full Title:: Routing TCP/IP, Volume 1
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - One reason to use the link-local address is that it is not likely to change. A link-local address will only change if the interface card, or the entire router, is replaced. Even if the site is renumbered with a different IPv6 global prefix, the link-local address on the interface does not change. Another reason to use the link-local address as the next hop is to remain consistent with the addresses routers advertise in the router advertisement messages and so that processes using those addresses, such as ICMPv6 Redirect, will operate as expected 

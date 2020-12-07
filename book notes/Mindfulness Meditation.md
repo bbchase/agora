@@ -1,0 +1,5 @@
+- Author:: [[Jon Kabat-Zinn]]
+- Full Title:: Mindfulness Meditation
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - we usually fall, quite unawares, into assuming that what we are thinking—the ideas and opinions that we harbor at any given time—are "the truth" about what is "out there" in the world and "in here" in our minds. Most of the time, it just isn't so. (Location 66)

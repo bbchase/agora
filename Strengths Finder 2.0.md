@@ -1,0 +1,18 @@
+- Author:: [[Tom Rath]]
+- Full Title:: Strengths Finder 2.0
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Devise a system to store and easily locate information. This can be as simple as a file for all the articles you have clipped or as sophisticated as a computer database 
+    - Look to others for planning. People who have strong Focus, Strategic, or Belief talents can help you shape your long-term goals, leaving you to excel at dealing with the day-to-day variations 
+    - If given a list of tasks to complete, try to indulge your desire for flexibility by making a game of that list. See if you can be creative or make the tasks more fun in some way 
+    - You are a natural fit with research and development 
+    - Make a point of identifying the facts and data that would be most valuable to others, and use this information to their advantage 
+    - Experiment 
+    - Seek a career in which you will be given credit for and paid for your ideas 
+    - Spend time with imaginative peers 
+    - You are likely to get bored quickly 
+    - be aware of the individuals and groups that can most benefit from your knowledge, and be intentional about sharing with them 
+    - new product development 
+    - Partner with someone with strong Analytical talents 
+    - Avoid roles that demand structure and predictability 
+    - Partner with someone with dominant Focus or Discipline talents 

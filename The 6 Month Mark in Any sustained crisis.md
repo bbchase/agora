@@ -1,0 +1,16 @@
+- Author:: [[@ProfAishaAhmad on Twitter]]
+- Full Title:: The 6 Month Mark in Any...
+- Category:: [[tweets]]
+- URL:: https://twitter.com/ProfAishaAhmad/status/1307697965260328961
+- ### Highlights first synced by [[Readwise]] [[October 2nd, 2020]]
+    - The 6 month mark in any sustained crisis is always difficult. We have all adjusted to this "new normal", but might now feel like we're running out of steam. Yet, at best, we are only 1/3 the way through this marathon. How can we keep going? THREAD /x 
+    - First, in my experience, this is a very normal time to struggle or slump. I *always* hit a wall 6 months into a tough assignment in a disaster zone. The desire to "get away" or "make it stop" is intense. I've done this many times, and at 6 months, it's like clockwork. /2 
+    - This time, our crisis is global and there is nowhere to run. That's OK. I've had to power through that 6 month hump before and there is life on the other side. Right now, it feels like we looking ahead at long, dark wintery tunnel. But it's not going to be like that. /3 
+    - Rather, this is our next major adaptation phase. We've already re-learned how to do groceries, host meetings, and even teach classes. And we have found new ways to be happy and have fun. But as the days get shorter and colder, we need to be ready to innovate again. /4 
+    - This is my first pandemic, but not my first 6 month wall. So, what can I share to help you? First, the wall is real and normal. And frankly, it's not productive to try to ram your head through it. It will break naturally in about 4-6 weeks if you ride it out. /5 
+    - Of course, there are things we have to do. Work. Teach. Cook. Exercise. But just don't expect to be sparklingly happy or wildly creative in the middle of your wall. Right now, if you can meet you obligations and be kind to your loved ones, you get an A+. /6 
+    - Also, don't be afraid that your happiness & creativity are gone for the rest of this marathon. Not true. I assure you that it will soon break & you will hit a new stride. But today, roll with it. Clear away less challenging projects. Read a novel. Download that meditation app. /7 
+    - Frankly, even though we cannot physically leave this disaster zone, try to give yourself a mental or figurative "shore leave". Short mental escapes can offer respite and distance from the everyday struggle. Take more mental "leave" until you clear the wall. /8 
+    - In my experience, this 6 month wall both arrives and dissipates like clockwork. So I don't fight it anymore. I don't beat myself up over it. I just know that it will happen & trust that the dip will pass. In the meantime, I try to support my mental & emotional health. /9 
+    - Take heart. We have navigated a harrowing global disaster for 6 months, with resourcefulness & courage. We have already found new ways to live, love, and be happy under these rough conditions. A miracle & a marvel. This is hard proof that we have what it takes to keep going. /10 
+    - So, dear friends, do not despair of the 6 month wall. It's not permanent, nor will it define you in this period of adversity. Trust that the magic that helped you through the first phase is still there. Take a breath & a pause. You'll be on the other side in no time. /end ❤️🙏🏽 

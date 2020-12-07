@@ -1,0 +1,6 @@
+- Author:: [[Margaret Atwood]]
+- Full Title:: The Handmaid's Tale
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/41aPpkv7ZjL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - It's impossible to say a thing exactly the way it was, because what you say can never be exact, you always have to leave something out, there are too many parts, sides, crosscurrents, nuances; too many gestures, which could mean this or that, too many shapes which can never be fully described, too many flavors, in the air or on the tongue, half-colors, too many. But if you happen to be a man, sometime in the future, and you've made it this far, please remember: you will never be subject to the temptation or feeling you must forgive, a man, as a woman. It's difficult to resist, believe me. But remember that forgiveness too is a power. To beg for it is a power, and to withhold or bestow it is a power, perhaps the greatest. ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B003JFJHTS&location=1657))

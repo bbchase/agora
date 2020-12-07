@@ -1,0 +1,24 @@
+- Author:: [[Dan Harris]]
+- Full Title:: 10% Happier
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/41Wh70h2LBL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Once you get the hang of it, the practice can create just enough space in your head so that when you get angry or annoyed, you are less likely to take the bait and act on it. ([Location 67](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=67))
+    - He explained that it is entirely possible to be depressed without being conscious of it. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=387))
+    - he’d helped me become utterly at ease around people who said “God bless you” when I hadn’t sneezed. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=717))
+    - I ([Location 1403](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1403))
+    - As best I could understand it, the Buddha’s main thesis was that in a world where everything is constantly changing, we suffer because we cling to things that won’t last. ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1452))
+    - Unlike many of the faiths I’d come across as a religion reporter, the Buddha wasn’t promising salvation in the form of some death-defying dogma, but rather through the embrace of the very stuff that will destroy us. The route to true happiness, he argued, was to achieve a visceral understanding of impermanence, which would take you off the emotional roller coaster and allow you to see your dramas and desires through a wider lens. Waking up to the reality of our situation allows you to, as the Buddhists say, “let go,” to drop your “attachments.” As one Buddhist writer put it, the key is to recognize the “wisdom of insecurity.” ([Location 1461](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1461))
+    - They had a term, too, for that thing I did where something would bother me and I would immediately project forward to an unpleasant future (e.g., Balding → Unemployment → Flophouse). The Buddhists called this prapañca (pronounced pra-PUN-cha), which roughly translates to “proliferation,” or “the imperialistic tendency of mind.” That captured it beautifully, I thought: something happens, I worry, and that concern instantaneously colonizes my future. ([Location 1471](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1471))
+    - “comparing mind,” and “wanting mind.” ([Location 1471](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1471))
+    - In a nutshell, mindfulness is the ability to recognize what is happening in your mind right now—anger, jealousy, sadness, the pain of a stubbed toe, whatever—without getting carried away by it. ([Location 1678](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1678))
+    - “drifting unaware on a surge of habitual impulses.” ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1697))
+    - thinking without awareness can be a harsh master. ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1703))
+    - R: recognize A: allow I: investigate N: non-identification ([Location 1826](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1826))
+    - It was the longest, most exquisite high of my life, but the hangover came first. ([Location 1951](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=1951))
+    - until we look directly at our minds we don’t really know “what our lives are about.” ([Location 2514](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=2514))
+    - major [[depression]] • drug addiction • binge eating • smoking cessation • stress among cancer patients • loneliness among senior citizens • ADHD • asthma • psoriasis • irritable bowel syndrome ([Location 2691](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=2691))
+    - Studies also indicated that meditation reduced levels of stress hormones, boosted the immune system, made office workers more focused, and improved test scores on the GRE. ([Location 2698](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=2698))
+    - frequent or persistent release of cortisol can lead to heart disease, diabetes, dementia, cancer, and [[depression]]. ([Location 2934](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=2934))
+    - “All we can do is everything we can do.” ([Location 3299](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=3299))
+    - “There’s no point in being unhappy about things you can’t change, and no point being unhappy about things you can.” ([Location 3344](https://readwise.io/to_kindle?action=open&asin=B00FJ376CS&location=3344))

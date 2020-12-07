@@ -1,0 +1,134 @@
+- Author:: [[Steven Levy]]
+- Full Title:: Crypto
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - we’ve long known you’ve had encryption in Lotus 1-2-3, and from our standpoint that’s within our jurisdiction. We could stop your shipments of 1-2-3 tomorrow if we felt like it. 
+    - And the conduits and pipes of the future, the very mortar and walls of those virtual spaces, could be held up by nothing but crypto. Oh, God, May would burst out when speaking of this vision, it’s so profound. There’s nothing else! One-way functions like the ones exploited by Diffie, Merkle, and Rivest were the building blocks of cyberspace, he insisted, and if we don’t use them we would be reduced to pathetic shivering creatures standing in the ashes of a virtual burned-out house. But with it, everything is imaginable. Secure conduits – untappable by the NSA 
+    - the government tried a number of tactics to get the suit out of her court. It reversed itself on two of the five CJ determinations, admitting that those particular mathematical decisions were simply “technical data.” It argued that Judge Patel’s court had no jurisdiction in matters involving export law. It filed for immediate dismissal 
+    - In 1990, along with Mitch Kapor and Grateful Dead lyricist John Perry Barlow, he’d founded the Electronic Frontier Foundation (EFF) to enforce civil liberties in the digital age, and had just started a new company called Cygnus Support, devoted to aiding users of free software 
+    - the Four Horsemen of the Apocalypse: drug dealers, kidnappers, child pornographers, and terrorists 
+    - In June 1975, the NSF official in charge of monitoring such grants, Fred Weingarten, was warned that the NSA was the only government agency with the authority to fund research on cryptology 
+    - Within a few months, the petition – one of the first Internet political protests – boasted over 47,000 endorsers 
+    - If not crypto anarchy, he knew, crypto ubiquity was on the way 
+    - As far as the MIT researchers were concerned, there would be, as Science put it, “a censorship system by the NSA over the research of the MIT Information Theory Group 
+    - Capstone 
+    - It will soon be feasible to compile dossiers in depth on an entire citizenry.” Feistel declared that the antidote was cryptography 
+    - when the Clinton people were challenged, they went on the offensive. “Do you want to be responsible for kidnappers?” the Clintonistas would ask, and the legislators would crumble 
+    - Neither the NSF lawyers nor the National Security Agency itself, when pressed for documentation 
+    - Judge Marilyn Patel had determined that at least part of the encryption export control rules was indeed unconstitutional. Furthermore, she accepted the Bernstein team’s assertion that computer source code could be considered a form of speech 
+    - The breakthrough came when Blaze, poring over the manuals, noted that the “checksum” in the LEAF was only 16 bits long. (The checksum is the way to verify that the proper LEAF, including the chip identifier and session key that encoded the conversation, was indeed sent off to the authorities. The proper number in the checksum is like an “all’s clear” that says everything is OK. If there was some way of creating a counterfeit LEAF with a legitimate checksum, in effect you would have defeated the Clipper system. The encryption would work, but the wiretappers wouldn’t have the proper session key to decrypt the conversation 
+    - It was universally assumed (though never admitted) that no foreign phone call, radio broadcast, or telegraph transmission was safe from the agency’s global vacuum cleaner. Signals were sucked up and the content analyzed with multi-MIPS computers, combing the text for anything of value. (These suspicions were later confirmed with leaks of Project Echelon, the NSA’s ambitious program to monitor foreign communications.) 
+    - Marc Andreessen 
+    - Entitled “Crime Deterrent Transponder System,” it proposed a system whereby “small radio transponders would be attached to criminal recidivists, parollees, and bailees to identify them and detect their whereabouts.” By tagging likely lawbreakers, Meyer claimed, we could create “an electronic surveillance and command-control system to make crime pointless 
+    - Ozzie couldn’t help but wonder: what was the point of all this? Did shipping Lotus Notes overseas only in a 32-bit version really improve national security 
+    - identified 264 cryptographic products produced overseas, 123 of which employed DES. Foreign individuals and companies could buy any of these, but not similar products created by American firms because the NSA would not permit their export 
+    - an almost biblical admonition on what could happen if the agency continued on its course without restraint 
+    - virtual private networks,” a hot business trend that allowed snoop-proof conferencing 
+    - Their report, “Cryptography’s Role in Securing the Information Society,” was a surprisingly strong criticism of government policy, and recommended continued freedom for domestic encryption, relaxed export controls, and, above all, “a mechanism to promote information security in the private sector.” In other words, more crypto 
+    - establishing an information-sharing ethos as the ground zero of computer culture 
+    - Sound familiar? It was the same situation that Whit Diffie had found utterly intolerable two decades earlier: the difficulty of two people seeking intimacy when someone else is in the bed 
+    - an even greater threat to the strength of the cryptosystems was the development of what are called quantum computers, machines that take advantage of subatomic physics to run much faster than our current models 
+    - they would have to get a law passed 
+    - By promoting Clipper as its key escrow flagship, the government profoundly erred. Instead of a nuanced debate on encryption, from that point on the merits – and drawbacks – of this particular scheme would become the main crypto battleground 
+    - this would effectively double the key size to 112 bits – enough keyspace to confound every damned computer on the planet for the next gajillion years 
+    - cyberpunks – hackers turned hipsters by linking the in-your-face iconoclasm of punk-rock rebels with the digital revolution. “Hey,” she called out, “you guys are cypherpunks!” They all loved the name 
+    - Arise, world; you have nothing to lose but your barbed-wire fences 
+    - Big Brother Inside 
+    - If that wasn’t enough to worry about, Bidzos then learned that Ralph Bennett, a Scientologist, had indicated that he might transfer his own considerable shares in the company to that organization. This would have made the Church of Scientology one of the biggest shareholders in the company – and the keeper of modern cryptography 
+    - The government quietly paid Micali a million dollars to license his patent 
+    - AT&T Telephone Security Device (TSD) 3600 
+    - Opposition came from all quarters. The ACLU found itself agreeing with Rush Limbaugh, who attacked Clipper on his radio show. Digital hippies savored the William Safire column “Sink the Clipper Chip,” where he noted that the solution’s name was well chosen, “as it clips the wings of individual liberty.” 
+    - “A large key is not a guarantee of security,” says Hellman, “but a small key is a guarantee of insecurity 
+    - A spy agency like the NSA could – and would – simply turn on the Hoover and inhale gigabytes of data 
+    - The National Security Agency has serious reservations about a public debate on cryptography 
+    - NSA’s worst fear: a communications systems where everyone used a secure code 
+    - it was going to be possible to fully automate spying 
+    - It’s the same problem posed by a physical trapdoor: if your enemies can’t find it, you can use it to hide. But if they do, they’ll know exactly where to look for you 
+    - Koan Two (for codebreakers): look for plaintext 
+    - could at any time be turned around on the American people and no American would have any privacy left, such [is] the capability to monitor everything.... There would be no place to hide. 
+    - What the hell do you want?” he asked his tormentors. “Are you waiting for me to offer you a back door?” The response was immediate: No, we don’t want you to compromise the security of the product. “So what the hell do you want?” Ozzie 
+    - Clinton people began pondering the potential consequences of a national disaster resulting from a lack of crypto – for which they could be blamed. Sure, allowing crypto exports could be dangerous, they figured, people may die... but on the other hand, if someone attacked an unprotected digital infrastructure... people may die! 
+    - The skirmishes over the digital signature standard seemed the ultimate proof that NIST was pretty much Fort Meade’s stooge 
+    - But as recently as the early 1970s, a deafening silence prevailed over this amazing technology. Governments, particularly that of the United States, managed to stifle open discussion on any aspect of the subject that ventured beyond schoolboy science 
+    - Government attempts to control encryption... may well implicate not only First Amendment rights of cryptographers,” wrote Judge Betty Fletcher, “but also the constitutional rights of each of us as potential recipients of encryption’s bounty 
+    - So Adleman agreed to keep his name on it, if it were listed last. Meanwhile, Adi Shamir agreed with Adleman that Rivest’s name should go first. This order determined the name of the algorithm itself: RSA 
+    - Chaum began his solution by coming up with something called a “blind signature.” This is a process by which a bank, or any other authorizing agency, can authenticate a number so that it can act as a unit of currency. Yet, using Chaum’s mathematics, the bank itself does not know who has the bill, and therefore cannot trace it. This way, when the bank issues you a stream of numbers designed to be accepted as cash, you have a way of changing the numbers (to make sure the money can’t be traced) while maintaining the bank’s imprimatur 
+    - Meanwhile, the NSA was treading a fine line. It was attempting to threaten crypto researchers who circulated their findings and ideas while it was fully aware that the Justice Department had concluded that such threats violated the Constitution 
+    - To his horror, he discovered that as far as the export rules were concerned, even a strictly commercial program that helps people run their businesses is considered a weapon. Not a handgun or a stiletto, either, but a weapon of mass destruction, like a Stinger missile or a nuclear bomb trigger. 
+    - The FBI approach would essentially dictate that the escrow facilities should be a phone call away at any time, and safeguards against abuse would go out the window 
+    - the FBI apparently was arguing for the ability to do its decrypting instantaneously, or in “real time,” an approach that the NIST people deemed “draconian and intrusive 
+    - Skipjack 
+    - Later, Corry wrote to John R. Pasta, Weingarten’s boss, thanking him for a concession that the NSF never made – agreeing to consider “security implications” when evaluating grant proposals. Pasta made it clear that the NSF made no such promise. 
+    - Their attitude was, “Encryption is cool, let’s put it anywhere 
+    - These regulations were drawn to “control the import and export of defense articles and defense services.” While people like Ron Rivest had always assumed that defense articles were things like nuclear detonating devices, Stinger missiles, and aircraft carriers, it turned out that these “instruments of war” were joined on the United States munitions list by “privacy devices [and] cryptographic devices 
+    - Unless the people are free to discuss the issues – and privacy is an essential component of many of those discussions – that process cannot take place 
+    - Numbers Can Be a Better Form of Cash Than Paper 
+    - It seems clear that turning such a huge domestic responsibility, potentially involving such organizations as banking, the U.S. mail, and cable televisions, to an organization such as NSA should be done only after the most serious debate at higher levels of government than represented by peanuts like me 
+    - What if you had to leave a copy of your front door key at the police station? 
+    - The government’s product, known as the Digital Signature Algorithm (DSA), was written by an NSA employee named David Kravitz 
+    - One would be able to do the job of scrambling a plaintext message – performing the task in such a way that outsiders couldn’t read it – but a secret trapdoor would be built into the message. The other portion of the key pair was like a latch that could spring open that trapdoor and let its holder read the message 
+    - Joseph Biden 
+    - We’ve found the problem to the solution,” he said, “... and it’s e-commerce!” 
+    - Once people began calling it the Big Brother Chip, the game was over 
+    - What Zimmermann hoped to produce was the electronic equivalent to sealed envelopes. But if you gave people a crypto program to protect e-mail, you’d have something much better than sealed envelopes. If people all agreed to use it, he thought, it would be a form of solidarity, a mass movement to resist unwanted snooping. Right on, baby 
+    - We are not asking to threaten national security,” he said. “We’re asking to discard a Cold War bureaucratic idea of national security which is obsolete. They’re abridging the freedom and privacy of all citizens, to defend us against a bogeyman that they will not explain. 
+    - Eric Bina 
+    - Governments had been similarly concerned with previous revolutions in telecommunications, like the transatlantic cable and the advent of radio. Despite fears that governments would lose sovereignty, these developments turned out to prove tremendously useful to governments 
+    - On April 17, 1974, an IBM patent attorney sent a memo to the crypto teams at Yorktown Heights and Kingston explaining that this meant there would be not only no publishing on the subject, but no public discussion whatsoever without the written consent of the Commissioner of Patents. Even the fact that a secrecy order existed was itself considered a secret, and talking about that was just as serious a crime as handing out encryption algorithms in the departure lounge at Kennedy Airport. A loose lip could result in a $10,000 fine, two years in prison, or both 
+    - David Chaum 
+    - “zero-knowledge proofs of identity.” Using one-way functions, these allowed Alice to verify that she knew a number (typically something that identified her, like a social security or credit-card number) without revealing that number to the interrogator 
+    - Just as some words in various languages have no meaning to drastically different civilizations (why would a tropical society need to speak of “snow”?), the AI lab had no technological equivalent for a term like “proprietary.” Information was assumed to be as accessible as the air itself 
+    - In any case, it was the FBI, particularly its director Louis Freeh, that kept urging a hard line – even to the point of continuing to insist that the bureau should have access to plaintext even at the cost of regulating crypto within U.S. borders 
+    - Diffie believed in what he called “a decentralized view of authority.” By creating the proper cryptographic tools, he felt, you could solve the problem – by transferring the data protection from a disinterested third party to the actual user, the one whose privacy was actually at risk 
+    - his fear was that a scheme that allowed officials to retrace the routes of citizens would be an Orwellian atrocity 
+    - “The idea that government holds the keys to all our locks, even before anyone has been accused of committing a crime, doesn’t parse with the public,” explained Jerry Berman of the EFF. “It’s not America.” 
+    - Two wild and crazy guys, trying to set a global standard for public key cryptography 
+    - That’s the kind of society I want to build. I want to guarantee – with physics and mathematics, not with laws – things like real privacy of personal communications... real privacy of personal records... real freedom of trade... real financial privacy... [and] real control of identification 
+    - Provision has been added,” went a 1980 revision of the rules, “to make it clear that the export of technical data does not purport to interfere with the First Amendment rights of individuals 
+    - On one hand was a mind-set so locked into Cold War posturing that it ignored the inevitable. On the other were the techno-visionaries who powered our future, eager to fortify American ascendancy in a global marketplace 
+    - by preventing publication on the Internet, the government was failing to heed the recent Supreme Court decision that struck down a law known as the Communications Decency Act: the court had ruled that the Net was a beacon of democracy entitled to the highest level of First Amendment protection 
+    - A newly cleared congressperson would get a presumably unvarnished and reportedly terrifying dose of global reality, after which he or she thereafter could be assumed to dutifully support any demands of the National Security Agency, lest the Huns gain a purchase on our liberty 
+    - The experience led some in Congress, urged by frantic lobbying from civil liberties groups, to create a law that would set boundaries for the government in the computer age. In what was an unusual act of independence from the demands of an intelligence agency, Congress in 1987 passed the Computer Security Act, which specifically turned over the responsibility for securing the nation’s computer infrastructure – particularly in recommending the standards to which industry would adhere – from the NSA to the National Bureau of Standards (which was about to take on the higher-tech appellation of National Institute for Standards and Technology 
+    - If was official: public crypto was our friend 
+    - could come up with any statutory justification for the agency’s claim 
+    - around in the seventies might have known better.
+Former NSA director Bobby Inman, for instance, got an early briefing on the Clipper Chip and he sensed right away that it was doomed 
+    - It was the result of a scientific experiment conducted by a formerly obscure research scientist named Matthew Blaze. Essentially, he made the Clipper Chip look stupid 
+    - The National Security Agency had devised its own scheme 
+    - We’re good guys – but we don’t know if this flaw has been discovered by bad guys.” 
+    - we would enter a golden age of secure electronic communications, where all messages could be secure 
+    - Just as the technology of printing altered and reduced the power of medieval guilds and the social power structure, so too will cryptologic methods fundamentally alter the nature of corporations and of government interference in economic transactions. Combined with emerging information markets, crypto anarchy will create a liquid market for any and all material which can be put into words and pictures. And just as a seemingly minor invention like barbed wire made possible the fencing-off of vast ranches and farms, thus altering the concepts of land and property rights in the frontier West, so too will the seemingly minor discovery out of an arcane branch of mathematics come to be the wire clippers which dismantle the barbed wire around intellectual property 
+    - Cryptography is vital to human privacy 
+    - Then they began to actually examine the DES system – and learned that the National Security Agency apparently had a hand in its development. And their enthusiasm turned to dismay 
+    - Koan One (for codemakers): never underestimate the time and expense your opponent will take to break your code 
+    - As far as stopping academic research in cryptography, Inman lost that round. Despite his attempts to get Congress to grant the NSA legal authority to suppress publications, the First Amendment prevailed 
+    - And later that year, a national digital signature bill would be passed, finally clearing the way out of the logjam caused by the administration’s foot-dragging back in 1992. President Clinton would sign the bill electronically 
+    - Your view of privacy, he told them, reflects a hopelessly naive view of the world. “By insisting on having a claim to privacy that is beyond social regulation, we are creating a world in which [crooks and terrorists] will flourish and be able to do more than they can do today,” Baker warned 
+    - I am convinced that NSA in its role of helping NBS design and evaluate possible standards has ensured that the proposed standard is breakable by NSA 
+    - After attacking Kahn’s reputation and expertise, Carter finally made a personal appeal for three specific deletions 
+    - In 1994, Andreessen had another famous cup of coffee, this time with Silicon Valley entrepreneur Jim Clark 
+    - crypto anarchy 
+    - What particularly offended him was Mike Nelson’s invocation of the classified information he had heard and Barlow had not. “If only I could tell you what I know, you’d feel the same way I do 
+    - Cypherpunks write code. They know that someone has to write to defend privacy, and since it’s their privacy, they’re going to write it. Cypherpunks publish their code so that their fellow cypherpunks may practice and play with it. Cypherpunks realize that security is not built in a day and are patient with incremental progress.
+Cypherpunks don’t care if you don’t like the software they write. Cypherpunks know that software can’t be destroyed. Cypherpunks know that a widely dispersed system can’t be shut down.
+Cypherpunks will make the networks safe for privacy 
+    - The chip is an important step in addressing the problem of encryption’s dual-edged sword: encryption helps the privacy of individuals and industry, but it can also shield criminals and terrorists. We need the “Clipper Chip” and other approaches that can both provide law-abiding citizens with access to the encryption they need and prevent criminals from using it to hide their illegal activities 
+    - It doesn’t matter how much computer power the NSA has to break codes – they can’t figure it out, and you can prove that 
+    - The trail led to anonymous, untraceable digital cash 
+    - The message was clear: You academic cryptographers may believe that your ideas were conceived under the protection of academic freedom and that your mathematical formulas belonged to no one but perhaps the God who first crunched them... but that is not the case when it comes to ideas and algorithms that can be used to encrypt information. Those ideas should be kept under close watch – and government control 
+    - In a rare public interview in the Wall Street Journal, an NSA representative sniffed, “We have better things to do with our time.” In other words: Trust us 
+    - And it did not, as the NSA had hysterically predicted, bring an abrupt close to the American century 
+    - is to find a way into some thoughtful discussion of what can be done between the two extremes of ‘that’s classified’ and ‘that’s academic freedom.’” But in almost the next breath, he conceded that if he got his way – and was able to censor academic research that involved national security – his proposed “thoughtful discussion” would probably end in “a debate between the Administration and the academic community 
+    - The committee was shocked to discover the extent of the NSA’s snooping efforts, particularly a strategy called Project Shamrock that included surveillance of American citizens 
+    - Unlike the Birkenstocked academics and rubber-necking spooks who met at the Crypto conferences, the twenty or so in attendance were people who saw cryptography totally outside the context of their own careers 
+    - He was the real inventor of public key cryptography. And for almost thirty years, virtually no one knew it 
+    - The pair, both of whom worked at the Supercomputing Center at the university, created Mosaic 
+    - Unfortunately, a company named Intergraph was already selling a microprocessor it called Clipper, and the United States had to pay a considerable sum to buy the rights to a moniker that was well on its way to what marketers call a brand disaster 
+    - Crypto Anarchist Manifesto 
+    - Chaum developed a prototype by which smart cards holding a certain amount of verified cash value could be affixed to a windshield and high-speed scanning devices would subtract the tolls as the cars whizzed by 
+    - But it turned out that the obvious way of defeating the LEAF was pretty much the first thing you would initially think of 
+    - In subsequent months, in fact, Hellman would publicly begin to question whether the DES algorithm might have been a daring ruse on the government’s part to lull citizens and perhaps even foreign foes into an illusion that they were protecting information – while that supposedly secure data was easily accessible to the NSA. At his most paranoid, Hellman wondered whether the DES had a “back door” implanted in it by Fort Meade’s clever cryptographers 
+    - Now Inman was frankly admitting that the world had changed, and not by his choice. He referred wistfully to the days, only now gone, when his people “enjoyed the luxury of relative obscurity,” remaining closemouthed about their work to spouses and even office mates... the days when NSA “could perform its vital functions without reason for public scrutiny or public dialogue 
+    - The Possibility of Secure Non-Secret Encryption 
+    - In 1993, two students at the University of Illinois had engaged in a coffeehouse conversation that would not only change the course of the twenty-two-year-old international network called the Internet but would profoundly affect the adoption of crypto 
+    - Though they could not of course reveal what they had heard in the briefings, they could – and did – evaluate the importance of that secret knowledge in determining national policy. Answer: not much. “Those [classified] details... ,” the report stated, “are not particularly relevant to the larger issues of why policy has the shape and texture that it does today nor to the general outline of how technology will and policy should evolve in the future.” So much for the “If you only knew what we know” argument 

@@ -1,0 +1,28 @@
+- Author:: [[Ramit Sethi]]
+- Full Title:: I Will Teach You to Be Rich
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51v9NVwWHHL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Maybe they’re correct or maybe they’re not, but that’s not really the point. The point is that we love to debate minutiae. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=259))
+        - **Note**: True with EVERYTHING. Politics, religion, relationships, computers...
+    - When it comes to weight loss, 99.99 percent of us need to know only two things: Eat less and exercise more. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=260))
+    - Most of us fall into one of two camps regarding our money: We either ignore it and feel guilty, or we obsess over financial details by arguing interest rates and geopolitical risks without taking action. Both options yield the same results—none. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=274))
+    - We need to set up accounts at solid banks, automate our day-to-day money management (including bills, savings, and, if applicable, debt payoff). We need to know about a few things to invest in, and then we need to let our money grow for thirty years. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=277))
+    - we love to debate minutiae. When we do, we somehow feel satisfied. We might just be spinning our wheels and failing to change anyone’s mind, but we feel as if we're really expressing ourselves, and it’s a good feeling. We feel like we’re getting somewhere. The problem is that this feeling is totally illusory. Think ([Location 281](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=281))
+    - the best time to start investing was ten years ago. The second best time is today. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=327))
+    - Cynics don’t want results; they want an excuse to not take action. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=380))
+    - It’s easy for people in their twenties to wish that their colleges had offered some personal finance training. Guess what? Most colleges do offer those classes. You just didn’t take them! ([Location 392](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=392))
+    - Do you need to be the Iron Chef to cook a grilled-cheese sandwich? No, ([Location 413](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=413))
+    - Getting started is more important than becoming an expert. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=435))
+    - I’d rather act and get it 85 percent right than do nothing. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=437))
+    - It’s okay to make mistakes. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=440))
+    - Spend extravagantly on the things you love and cut costs mercilessly on the things you don’t. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=441))
+    - Don’t live in the spreadsheet. I encourage you to pick your financial system and move on with your life, ([Location 452](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=452))
+    - Play offense, not defense. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=457))
+    - Make career decisions because I want to, not because of money ([Location 485](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=485))
+    - We feel helpless. We feel outraged. Who should get the blame? I don’t know, but somebody should. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=597))
+    - Most of all, we do nothing. This is how “outrage culture” works—it makes you feel angry and exhausted . . . and then you go back to doing nothing. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=598))
+    - I have a few simple rules that I use when choosing my own cards: ■ Don’t accept credit card offers that come in the mail or from retail stores like Gap or Nordstrom. ■ Squeeze every reward you can out of your credit cards. ■ Pick a good one, then move on with your life. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=761))
+    - think of yourself as being on a little treasure hunt to figure out where to get the money to pay off your credit card debt. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=1394))
+    - Literally bring a strategic plan of what you want to do in the position and hand it to your hiring manager. ([Location 5709](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=5709))
+    - Negotiating tactic: Smile. ([Location 5737](https://readwise.io/to_kindle?action=open&asin=B07GNXPP4P&location=5737))

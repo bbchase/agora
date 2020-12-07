@@ -1,0 +1,40 @@
+- Author:: [[Cal Newport]]
+- Full Title:: Digital Minimalism
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51JIFuURUZL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - we cannot passively allow the wild tangle of tools, entertainments, and distractions provided by the internet age to dictate how we spend our time or how we feel. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=151))
+    - a philosophy that prioritizes long-term meaning over short-term satisfaction. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=155))
+    - Snood (a Tetris-style puzzle game that was inexplicably popular) ([Location 168](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=168))
+    - One of the major selling points of the original iPhone was that it integrated your iPod with your cell phone, preventing you from having to carry around two separate devices in your pockets. ([Location 174](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=174))
+    - We didn’t sign up for the digital lives we now lead. They were instead, to a large extent, crafted in boardrooms to serve the interests of a select group of technology investors. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=402))
+    - should look beyond the notification settings on his 112 apps and ask the more important question of why he uses so many apps in the first place. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=430))
+        - **Note**: Why is the number of apps n issue? Seems like a distraction like some breeds of physical minimalism. This soulfnlt be  co.petition for who has the fewest apps. 
+    - Digital Minimalism A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=435))
+    - This argument sounds absurd to digital minimalists, because they believe that the best digital life is formed by carefully curating their tools to deliver massive and unambiguous benefits. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=449))
+        - **Note**: This sounds like dogma rather than thoughtfulness.
+    - Principle #1: Clutter is costly. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=515))
+    - Principle #2: Optimization is important. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=519))
+    - Principle #3: Intentionality is satisfying. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=521))
+    - Maintaining an active presence on Twitter, for example, might occasionally open up an interesting new connection or expose you to an idea you hadn’t heard before. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=583))
+    - Thoreau’s new economics, however, demands that you balance this profit against the costs measured in terms of “your life.” How much of your time and attention, he would ask, must be sacrificed to earn the small profit of occasional connections and new ideas that is earned by cultivating a significant presence on Twitter? ([Location 586](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=586))
+    - consider the technology optional unless its temporary removal would harm or significantly disrupt the daily operation of your professional or personal life. ([Location 841](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=841))
+    - for each optional technology that you’re considering reintroducing into your life, you must first ask: Does this technology directly support something that I deeply value? ([Location 962](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=962))
+    - Is this technology the best way to support this value? ([Location 968](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=968))
+    - To allow an optional technology back into your life at the end of the digital declutter, it must: Serve something you deeply value (offering some benefit is not enough). Be the best way to use technology to serve this value (if it’s not, replace it with something better). Have a role in your life that is constrained with a standard operating procedure that specifies when and how you use it. ([Location 984](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=984))
+    - solitude is about what’s happening in your brain, not the environment around you. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1138))
+    - You can enjoy solitude in a crowded coffee shop, on a subway car, or, as President Lincoln discovered at his cottage, while sharing your lawn with two companies of Union soldiers, so long as your mind is left to grapple only with its own thoughts. On the other hand, solitude can be banished in even the quietest setting if you allow input from other minds to intrude. ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1139))
+    - Solitude requires you to move past reacting to information created by other people and focus instead on your own thoughts and experiences—wherever ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1144))
+    - “All of humanity’s problems stem from man’s inability to sit quietly in a room alone,” ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1163))
+    - Conversation enriches the understanding, but solitude is the school of genius.” ([Location 1170](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1170))
+    - The smartphone provided a new technique to banish these remaining slivers of solitude: the quick glance. ([Location 1224](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1224))
+- Author:: [[Cal Newport]]
+- Full Title:: Digital Minimalism
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - The iPod was pushing us toward a newly alienated phase in our relationship with our own minds. 
+- Author:: [[Cal Newport]]
+- Full Title:: Digital Minimalism
+- Category:: [[books]]
+- ### Highlights first synced by [[Readwise]] [[October 31st, 2020]]
+    - The iPod was pushing us toward a newly alienated phase in our relationship with our own minds. 

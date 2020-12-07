@@ -1,0 +1,8 @@
+- Author:: [[Margaret Atwood]]
+- Full Title:: MaddAddam
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51XLqW1FpYL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Over his legs is a child’s comforter with a pattern of cats playing fiddles, laughing puppies, dishes with faces on them holding hands with grinning spoons, and cows with bells around their necks jumping over moons that are leering at their udders. ([Location 578](https://readwise.io/to_kindle?action=open&asin=B00BRUQ3PS&location=578))
+    - There’s the story, then there’s the real story, then there’s the story of how the story came to be told. Then there’s what you leave out of the story. Which is part of the story too. ([Location 832](https://readwise.io/to_kindle?action=open&asin=B00BRUQ3PS&location=832))
+    - “Bright side, if they could spread it through the population – those tick saliva proteins embedded in, say, the common aspirin – then everyone would be allergic to red meat, which has a huge carbon footprint and causes the depletion of forests, because they’re cleared for cattle grazing; and then …” “Not my idea of a bright side,” said Zeb. “For argument: we’re hunter-gatherers, we evolved to eat meat.” “And to develop lethal allergies to tick saliva,” said Glenn. “Only in those slated to be eliminated from the gene pool,” said Zeb. “Which is why it’s rare.” Glenn grinned, not something he did often. “Point,” he said. ([Location 3534](https://readwise.io/to_kindle?action=open&asin=B00BRUQ3PS&location=3534))

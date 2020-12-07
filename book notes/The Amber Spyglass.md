@@ -1,0 +1,6 @@
+- Author:: [[Philip Pullman]]
+- Full Title:: The Amber Spyglass
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51xZVxmJT4L._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - For Empire is no more, and now the Lion & Wolf shall cease.” ([Location 73](https://readwise.io/to_kindle?action=open&asin=B000FC1GJW&location=73))

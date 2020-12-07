@@ -1,0 +1,14 @@
+- Author:: [[Mark Williams;John D. Teasdale;Zindel V. Segal;Jon Kabat-Zinn]]
+- Full Title:: The Mindful Way Through [[depression]]
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - four key dimensions: feelings, thoughts, body sensations, and behaviors, (Location 468)
+    - . Feeling depressed or sad most of the day (Location 501)
+    - Loss of interest or ability to derive pleasure from a l l or nearly a l l activities that were previously enjoyed (Location 502)
+    - weig ht gain, (Location 503)
+    - agitated (Location 505)
+    - Feelings of worthlessness or extreme or inappropriate g uilt (Location 506)
+    - Difficulties with concentration or the ability to think, which can also be seen by others as indecisiveness (Location 507)
+    - at the end of our rope with many of the people in our lives. (Location 513)
+    - For some, especially young people, irritability is a more prominent experience than sadness in [[depression]]. (Location 514)
+    - Not only do we feel sad, we may also feel like failures, useless, unlovable, losers. (Location 522)

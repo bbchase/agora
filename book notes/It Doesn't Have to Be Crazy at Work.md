@@ -1,0 +1,156 @@
+- Author:: [[Jason Fried]]
+- Full Title:: It Doesn';t Have to Be Crazy at Work
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - A quality day is at least 4 × 60, not 4 × 15 × 4. 
+    - 2,000 per year charity match. 
+    - if it’s not three, it’s one or two rather than four or five 
+    - When you get a bunch of people in a room under the assumption that consensus is the only way out again, you’re in for a war of attrition 
+    - That’s really the answer to new ideas that arrive too late: You’ll just have to wait! 
+    - if you actually want to make progress, you have to narrow as you go 
+    - Modern-day offices have become interruption factories 
+    - the further away you are from the fruit, the lower it looks 
+    - progress is achieved through iteration 
+    - Creativity, progress, and impact do not yield to brute force. 
+    - When someone takes a vacation at Basecamp, it should feel like they don’t work here anymore 
+    - Later is where excuses live. Later is where good intentions go to die. Later is a broken back and a bent spirit. Later says “all-nighters are temporary until we’ve got this figured out.” Unlikely. Make the change now. 
+    - Most of the time, if you’re uncomfortable with something, it’s because it isn’t right 
+    - Our market rates are based on San Francisco numbers despite the fact that we don’t have a single employee there. San Francisco is simply the highest-paying city in the world for our industry. So no matter where you choose to live, we pay the same top-market salaries 
+    - Companies spend their employees’ time and attention as if there were an infinite supply of both. As if they cost nothing 
+    - One monthly massage at an actual spa 
+    - Calm is protecting people’s time and attention.
+    - Calm is about 40 hours of work a week.
+    - Calm is reasonable expectations.
+    - Calm is ample time off.
+    - Calm is smaller.
+    - Calm is a visible horizon.
+    - Calm is meetings as a last resort.
+    - Calm is asynchronous first, real-time second.
+    - Calm is more independence, less interdependence.
+    - Calm is sustainable practices for the long term.
+    - Calm is profitability. 
+        - **Note**: Meetings as a last resort!
+    - We didn’t start out paying everyone these extremely high San Francisco salaries. For a while we were following a similar model but using Chicago rates 
+    - Nothing tells the truth like actually experiencing the idea in real life 
+    - No growth-at-all-costs. No false busyness. No ego-driven goals. No keeping up with the Joneses Corporation. No hair on fire. And 
+    - Someone in charge has to make the final call 
+    - spread out across about 30 different cities around the world 
+    - When you deal with people who have trouble, you can either choose to take the token that says “It’s no big deal” or the token that says “It’s the end of the world.” Whichever token you pick, they’ll take the other. 
+    - Almost everything can wait. And almost everything should. 
+    - Comparison is the death of joy. 
+    - distractions spread like viruses 
+    - the only sustainable method in business is to have them made by individuals. 
+    - The hustle may have started as a beacon for those with little to outsmart those with a lot, but now it’s just synonymous with the grind 
+    - The expectation of an immediate response is the ember that ignites so many fires at work. 
+    - As a general rule, nobody at Basecamp really knows where anyone else is at any given moment. Are they working? Dunno. Are they taking a break? Dunno. Are they at lunch? Dunno. Are they picking up their kid from school? Dunno. Don’t care. 
+    - 40 hours a week most of the year and just 32 in the summer 
+    - Another way to think about our deadlines is that they’re based on budgets, not estimates 
+    - your company should be your best product 
+    - Stop thinking of talent as something to be plundered and start thinking of it as something to be grown and nurtured 
+    - Our target is to pay everyone at the company at the top 10 percent of the market regardless of their role 
+    - Micromanagers tend to stay micromanagers.
+    - Workaholics tend to stay workaholics.
+    - Hustlers tend to stay hustlers 
+        - **Note**: Haters gonna hate, hate, hate, hate, hate
+    - “There is nothing so useless as doing efficiently that which should not be done at all.” 
+    - The idea that you have to constantly push yourself out of your comfort zone is the kind of supposedly self-evident nonsense you’ll often find in corporate manifestos 
+    - Goals are fake 
+    - Like they say, all’s fair in love and war. Except this isn’t love, and it isn’t war. It’s business 
+    - Set out to do good work. Set out to be fair in your dealings with customers, employees, and reality. Leave a lasting impression with the people you touch and worry less (or not at all!) about changing the world 
+    - Friday is the worst day to release anything. 
+    - our salaries are benchmarked against other companies’ salaries plus bonus packages 
+    - There’s a fountain of happiness and productivity in working with a stable crew 
+    - When calm starts early, calm becomes the habit 
+    - attempting to be indiscriminately great at everything is a foolish waste of energy 
+    - A great work ethic isn’t about working whenever you’re called upon. It’s about doing what you say you’re going to do, putting in a fair day’s work, respecting the work, respecting the customer, respecting coworkers, not wasting time, not creating unnecessary work for other people, and not being a bottleneck 
+    - We don’t track your days off, we use the honor system 
+    - new approaches or ideas are bad, but their timing may well be 
+    - the final decision should be explained clearly to everyone involved 
+    - you don’t need to hurt yourself to get healthier 
+    - to do. Or, better yet, nothing worth doing. If you’ve only got three hours of work to do on a given day, then stop 
+    - The problem with per-seat pricing is that it makes your biggest customers your best customers 
+    - Nearly all product work at Basecamp is done by teams of three people 
+    - Companies pour gobs of money into buying or renting an office and filling it with desks, chairs, and computers. Then they arrange it all so that nobody can actually get anything done there. 
+    - All subject-matter experts at Basecamp now publish office hours 
+    - When you stick with planning for the short term, you get to change your mind often. And that’s a huge relief 
+    - Fully paid vacations every year 
+    - They guard so many things, but all too often they fail to protect what’s both most vulnerable and most precious: their employees’ time and attention. 
+    - “That’s fine” is such a wonderfully relaxing way to work most of the time 
+    - There are no stock options at Basecamp because we never intend to sell the company 
+    - Whatever it takes is an iceberg. Steer clear lest it literally sink your ship 
+    - If you can’t fit everything you want to do within 40 hours per week, you need to get better at picking what to do 
+    - Where does our money come from? Customers. Call us old-fashioned 
+    - we started by setting a target: one hour. The vast majority of the hundreds of customers writing to us every day should get a response within one hour 
+    - how many of those hours are really spent on the work itself? And how many are tossed away in meetings, lost to distraction, and withered away by inefficient business practices 
+    - People don’t like to have their grievances downplayed or dismissed 
+    - The modern workplace is sick. Chaos should not be the natural state at work. Anxiety isn’t a prerequisite for progress. Sitting in meetings all day isn’t required for success. These are all perversions of work —side effects of broken models and follow-the-lemming-off-the-cliff worst practices. Step aside and let the suckers jump. 
+    - Working 40 hours a week is plenty 
+    - During the summer, we even take Fridays off and still get plenty of good stuff done in just 32 hours 
+    - This is how you end up thinking “What did I actually do today?” when the clock turns to five and you supposedly spent eight hours at the office. You know you were there, but the hours had no weight, so they slipped away with nothing to show 
+    - six, seven, or eight on a team will inevitably make simple things more complicated than they need to be 
+    - The quickest way to disappointment is to set unreasonable expectations. 
+    - We didn’t just assume asynchronous communication is better than real-time communication most of the time. We figured it out after overusing chat tools for years 
+    - “Doing nothing isn’t an option.”
+    	- Oh, yes, it is. And it’s often the best one.
+	    - “Nothing” should always be on the table. 
+    - We didn’t realize paying for people’s vacations was better than cash bonuses. We started with the latter and realized that bonuses were just taken as an expected part of pay, anyway 
+    - We not only pay for people’s vacation time, we pay for the actual vacation, too 
+    - Putting everything we build in front of customers beforehand is slow, costly, and results in a mountain of prerelease feedback that has to be sifted through, considered, debated, discussed, and decided upon 
+    - Following group chat at work is like being in an all-day meeting with random participants and no agenda. It’s completely exhausting 
+    - The trust battery is dead. 
+    - If you can’t be bothered to schedule a meeting without software to do the work, just don’t bother at all. It probably wasn’t necessary in the first place. 
+    - Off our grid 
+        - **Note**: Could you block someone’s slack and email access?
+    - after that brief period of exploration at the beginning of a project—it’s time to focus in and get narrow. It’s time for tunnel vision 
+    - We don’t do grand plans at Basecamp—not for the company, not for the product. There’s no five-year plan. No three-year plan. No one-year plan. Nada 
+    - $1,000 per year continuing-education stipend 
+    - Time and attention are best spent in large bills, if you will, not spare coins and small change 
+    - I disagree and commit all the time 
+    - Most people don’t actually have 8 hours a day to work, they have a couple of hours. The rest of the day is stolen from them by meetings, conference calls, and other distractions. So while you may be at the office for 8 hours, it feels more like just a few. 
+    - keep salaries equal for equal work and seniority 
+    - Change makes things worse all the time. 
+    - What’s worse is when management holds up certain people as having a great “work ethic” because they’re always around, always available, always working. That’s a terrible example of a work ethic and a great example of someone who’s overworked. 
+    - Sell new customers on the new thing and let old customers keep whatever they already have. This is the way to keep the peace and maintain the calm 
+    - We just want someone who can hit the ground running” is the common refrain for companies seeking senior-level job candidates 
+    - $100 monthly fitness allowance 
+    - “lottery tickets” (aka stock options) 
+    - If we tell a team that they have six weeks to build a great calendar feature in Basecamp, they’re much more likely to produce lovely work 
+    - you’ll hardly ever find more than three people around a table 
+    - When the boss says “My door is always open,” it’s a cop-out, not an invitation. One that puts the onus of speaking up entirely on the employees 
+    - 30-day-paid sabbaticals every three years 
+    - When someone takes your time, it doesn’t cost them anything, but it costs you everything 
+    - If you don’t clearly communicate to everyone else why someone was let go, the people who remain at the company will come up with their own story to explain it. Those stories will almost certainly be worse than the real reason 
+    - Do people who work here know how to use the company? 
+        - **Note**: Customers/members too!
+    - we chop problems down until they can be carried across the finish line by teams of three 
+    - The opposite of conquering the world isn’t failure, it’s participation 
+    - Eight people in a room for an hour doesn’t cost one hour, it costs eight hours 
+    - Make the first Thursday of the month Library Rules day at the office. We bet your employees will beg for more. 
+    - we’ve never committed to a product road map 
+    - It’s not worth trading sleep for a few extra hours at the office. Not only will it make you exhausted, it’ll literally make you stupid 
+    - The only way to get more done is to have less to do. 
+    - Meetings should be a last resort, especially big ones. 
+    - We come in peace. We don’t have imperial ambitions. We aren’t trying to dominate an industry or a market. We wish everyone well. To get ours, we don’t need to take theirs 
+    - People aren’t working longer and later because there’s more work to do all of a sudden. People are working longer and later because they can’t get work done at work anymore! 
+    - It’s sad to think that some people crave a commute because it’s the only time during the day they have to themselves 
+    - A fractured hour isn’t really an hour—it’s a mess of minutes 
+    - At Basecamp, we’ve designed the organization to be largely manager-free 
+    - We launch features that aren’t good enough for everyone (but will be Just Fine for plenty of people) 
+    - When we present work, it’s almost always written up first. A complete idea in the form of a carefully composed multipage document. Illustrated, whenever possible. And then it’s posted to Basecamp, which lets everyone involved know there’s a complete idea waiting to be considered.
+Considered 
+    - We work on projects for six weeks at a time, then we take two weeks off from scheduled work to roam and decompress 
+    - You can’t credibly promote the virtues of reasonable hours, plentiful rest, and a healthy lifestyle to employees if you’re doing the opposite as the boss 
+    - The problem with four is that you almost always need to add a fifth to manage 
+    - We send people on month-long sabbaticals every three years 
+    - isn’t fueled by stress, or ASAP, or rushing, or late nights, or all-nighter crunches, or impossible promises, or high turnover, or consistently missed deadlines, or projects that never seem to end 
+    - Generally speaking, the notion of having to break out of something to reach the next level doesn’t jibe with us. Oftentimes it’s not breaking out, but diving in, digging deeper, staying in your rabbit hole that brings the biggest gains 
+    - The person with the question needed something and they got it. The person with the answer was doing something else and had to stop. That’s rarely a fair trade. 
+    - Three-day weekends all summer 
+    - “I disagree, but let’s commit” 
+    - Being one of many options in a market is a virtue that allows customers to have a real choice 
+    - Sleep-deprived people aren’t just short on brains or creativity, they’re short on patience. Short on understanding. Short on tolerance 
+    - we don’t have status meetings at Basecamp 
+    - What people don’t like is forced change—change they didn’t request on a timeline they didn’t choose 
+    - Heartbeats 
+        - **Note**: What could this be for me? Confluence blog posts? Slack posts?
+    - We no longer negotiate salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay. 

@@ -1,0 +1,6 @@
+- Author:: [[Philip Pullman]]
+- Full Title:: The Golden Compass
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/516YLKoyukL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - There was nothing that could be gained by wishing for it. ([Location 5270](https://readwise.io/to_kindle?action=open&asin=B000FC1ICM&location=5270))

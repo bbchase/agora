@@ -1,0 +1,6 @@
+- Author:: [[Chimamanda Ngozi Adichie]]
+- Full Title:: We Should All Be Feminists
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51TotTTRSjL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - But by far the worst thing we do to males—by making them feel they have to be hard—is that we leave them with very fragile egos. The harder a man feels compelled to be, the weaker his ego is. And then we do a much greater disservice to girls, because we raise them to cater to the fragile egos of males. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B00L0F01NK&location=158))

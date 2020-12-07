@@ -1,0 +1,7 @@
+- Evergreen upgrade advice: Buy what you need, when you need it.
+- Some elaboration:
+    - Buy what you will need for the foreseeable lifetime of the product
+    - Balance resale value and how often you need to/can afford to upgrade (If you’re going to upgrade $device every year anyway, don’t bother future-proofing; if you’re going to keep $device as log as possible, don’t cheap out on specs that age poorly, like RAM and storage)
+    - Don’t buy something long before you need it. Starting school? Buy $device a week or two before the semester starts so you have time to set it up or exchange it if something is wrong. That way you don’t miss out of upgrades that come out before you really need $device.
+    - $device doesn’t stop providing its value just because $new-device is better. It’s not obsolete. It’s not out-dated. Be happy with what you have; be happy that it fulfills your needs. If it does not fulfill your needs right now, then don’t buy it. If you’re going to feel bad about not have $newest-device, the you should only buy things right after they come out.
+    - Unless there’s a very predictable upgrade schedule, don’t put off buying something you need when you need it just because $new-device might come out soon.

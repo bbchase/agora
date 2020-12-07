@@ -1,0 +1,7 @@
+- Author:: [[Jim Hayes and Bee Suat Lim]]
+- Full Title:: The FOA Reference Guide to Fiber Optic Network Design
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/412zEyQCjOL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - FOA CFOT certification ([Location 155](https://readwise.io/to_kindle?action=open&asin=B01ELQDSKM&location=155))
+    - References for the fiber optic designer’s bookshelf include the FOA textbooks and the NECA/FOA-301 installation standard. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B01ELQDSKM&location=158))

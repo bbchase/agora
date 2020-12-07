@@ -1,0 +1,27 @@
+- 
+- Comparison: https://www.staticgen.com
+- Options
+    - Jekyll
+        - https://github.com/jekyll/jekyll
+        - https://jekyllrb.com/
+        - Ruby
+        - already installed on GitHub
+    - Ghost
+        - https://github.com/TryGhost/Ghost
+        - https://ghost.org
+    - Pelican
+        - https://github.com/getpelican/pelican
+        - https://getpelican.com/
+        - Python
+    - Pico CMS
+        - https://github.com/picocms/Pico
+        - http://picocms.org/
+    - Grav
+        - https://github.com/getgrav/grav
+        - https://getgrav.org
+    - 11ty (eleventy)
+        - https://github.com/11ty/eleventy
+        - https://www.11ty.dev/
+        - recommended on forum
+        - uses node.js (not you don't need to know it to operate it)
+    - Hugo

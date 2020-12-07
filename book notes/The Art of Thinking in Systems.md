@@ -1,0 +1,8 @@
+- Author:: [[Steven Schuster]]
+- Full Title:: The Art of Thinking in Systems
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Removing a leader from power without addressing and changing the system that was in place during their rule will only mean that the same patterns will continue to repeat themselves 
+    - Systems are made up of three parts: elements, interconnections, and a function or a purpose 
+    - “Systems thinking is the art and science of making reliable inferences about behavior by developing an increasingly deep understanding of underlying structure.” 
+    - We have to dig deeper to understand the relationships between those parts and the impact they have on the system as a whole 

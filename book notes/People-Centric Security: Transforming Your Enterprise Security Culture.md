@@ -1,0 +1,25 @@
+- Author:: [[Lance Hayden]]
+- Full Title:: People-Centric Security: Transforming Your Enterprise Security Culture
+- Category:: [[articles]]
+- URL:: https://learning.oreilly.com/library/view/people-centric-security-transforming/9780071846790/
+- ### Highlights first synced by [[Readwise]] [[September 19th, 2020]]
+    - culture eats strategy for breakfast. 
+        - **Note**: 2020-02-02Chapter 2 Strategy for Breakfast: The Hidden Power of Security Culturehttps://learning.oreilly.com/a/people-centric-security-transforming/37564845/
+    - when compliance replaces security as the goal, cultural transformation backfires 
+        - **Note**: 2020-02-02Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37564801/
+    - People-centric security implies that without people there is no security, nor any need for it. 
+        - **Note**: 2020-02-02Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37564775/
+    - if you want to really change how security works, you have to change the culture operating beneath it. 
+        - **Note**: 2020-02-02Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37564764/
+    - “We don’t want to just change the mechanics,” they explained, “or to switch out one set of controls or one best practices framework for another. We want to change what security means to the company, and we want to change it for every single person who works here regardless of rank or role.” 
+        - **Note**: 2020-02-01Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37496513/
+    - ISO 27001 
+        - **Note**: 2020-02-01Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37496498/
+    - Technology hackers don’t let others tell them what the system can or cannot do, but instead figure it out for themselves by exploring the system. If you want to hack culture, you have to learn how the culture really works, not just what everyone thinks or expects of it 
+        - **Note**: 2020-02-01Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37496444/
+    - Security is a people challenge, a social and organizational challenge. It’s a cultural challenge. 
+        - **Note**: 2020-02-01Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37496313/
+    - Security is not a technology challenge 
+        - **Note**: 2020-02-01Chapter 1 Information Security: Adventures in Culture Hackinghttps://learning.oreilly.com/a/people-centric-security-transforming/37496310/
+    - people, process, and technology 
+        - **Note**: 2020-01-19Introductionhttps://learning.oreilly.com/a/people-centric-security-transforming/36363765/

@@ -1,0 +1,53 @@
+- Been trying out some coffee alternatives lately.
+- Goals for coffee alternatives
+    - reduce [[caffeine]] intake
+    - reduce acidity
+    - reduce fissure issue
+    - reduce irritability
+    - reduce blood sugar drops around 11am
+    - reduce post-coffee fatigue
+    - sleep better at night
+    - Be able to have as many tasy warm drinks as I want, whenever I want
+- Coffee Alternatives:
+    - Teeccino [[purchased]] [[caffeine-free]]
+        - Link:: [Teeccino](https://teeccino.com)
+        - Link:: [Amazon](https://smile.amazon.com/gp/product/B004LL5BZS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+        - Form:: Tea bag or grinds
+        - French Roast
+            - Doesn’t taste like coffee, but does hit some of the right notes. 
+            - It’s a little weak if you’re expecting coffee. Two teabags helps some.
+            - Taste:: Robust, dark, chicory, a tiny bit sweet, 
+            - I think they’re selling themselves short, or setting themselves up for failure by claiming to taste like coffee. It’s more like a really nice, robust tea
+            - [x] Try brewed
+            - [ ] Try with hot milk instead of water
+            - [ ] Try iced brew
+            - [ ] try iced latte
+        - Flavors to try
+            - [x] French Roast Tea
+            - [ ] French Roast grounds
+            - [ ] Java
+            - [ ] Danelion Dark Roast
+            - Several dandelion teas
+            - Several sweeter coffees
+            - Several mushroom blends
+            - Several other teas
+    - Dandy Blend [[purchased]] [[caffeine-free]]
+        - Link:: [Dandy Blend](https://dandyblend.com)
+        - Link:: [Amazon](https://smile.amazon.com/gp/product/B01LAX5Q68/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+        - Form:: Instant
+        - Can get pouches or bags of powder
+        - Tried as a latte first. Used two packets instead of one. 
+        - [ ] Try brewed
+        - [x] Try with hot milk instead of water
+            - Pretty tasty! Two pouches. Didn’t mix super well and was stronger at the end. Might need to let it desolve longer and then stir again.
+        - [ ] Try iced brew
+        - [ ] try iced latte
+    - Matcha [[caffeine]]
+        - Link:: [Amazon](https://smile.amazon.com/gp/product/B00PFDH0K0/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+        - Form:: Powder
+        - caffeine:: 25 - 35 mg per gram (half-teaspoon)
+        - Also contains L-Theanine
+    - Mate [[caffeine]]
+        - 
+        - Yerba Mate
+        - Roasted Mate

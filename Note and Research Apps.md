@@ -1,0 +1,44 @@
+- [Evernote](https://evernote.com)
+- [DEVONThink](https://www.devontechnologies.com/)
+- [Notion](https://www.notion.so/)
+- [Obsidian](https://obsidian.md/)
+- [Roam Research](https://roamresearch.com/)
+- [Joplin](https://joplinapp.org/)
+- [Drafts](https://getdrafts.com/)
+- [Keep It](https://reinventedsoftware.com/keepit/)
+- [Bear](https://bear.app/)
+- [SimpleNotes](https://simplenote.com/)
+- Apple Notes
+- [Notational Velocity](http://notational.net/)
+- [nvAlt](https://brettterpstra.com/projects/nvalt/)
+- [nvUltra](https://nvultra.com/)
+- [TiddlyWiki](https://tiddlywiki.com/)
+	- [Drift](https://akhater.github.io/drift/)
+	- [TiddlyRoam](https://tiddlyroam.org/)
+		- Visually not great
+- [RemNote](remnote.io)
+	- Flash cards
+	- Spaced repetition
+- [logsec](https://logseq.com/)
+- [Dendron](https://www.dendron.so/)
+	- VSCode plugin :/
+- [Relanote](https://relanote.com/)
+	- Looks like a Roam clone
+- [Athens](https://github.com/athensresearch/athens)
+	- Open source Roam offshoot
+- [org-roam](https://www.orgroam.com/)
+- [DokuRoam](https://github.com/andjar/dokuroam/blob/master/README.md)
+- [ZimWiki](https://zim-wiki.org/)
+- [trilium](https://github.com/zadam/trilium)
+- [scapbox](https://scrapbox.io/)
+- [NoteBag](https://notebag.app/)
+- [VimWiki](https://github.com/ducbueno/vimwiki-roam)
+- [Zotero](https://www.zotero.org/)
+- [Foam](https://foambubble.github.io/foam/)
+	- Visual Studio and git???
+
+
+## Aritcles
+- https://www.buildingasecondbrain.com
+- https://www.nateliason.com/blog/roam
+- 

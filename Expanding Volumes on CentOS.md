@@ -1,0 +1,83 @@
+- [[CentOS]] [[LVM]] 
+- Summary:
+    - df -h
+        - find the volume that needs expanding
+            - **/dev/mapper/Volume00-mailman_lv**
+            -                        **94G**  89G  564M 100% /mailman
+    - lvdisplay
+        - find the real name
+            - --- Logical volume ---
+            -   LV Name                /**dev/Volume00/mailman_lv**
+            -   VG Name                Volume00
+            -   LV UUID                Q3hRqJ-e7mz-M9ae-RKZb-vl1l-FNvX-AJPS9V
+            -   LV Write Access        read/write
+            -   LV Status              available
+            -   # open                1
+            -   LV Size                94.00 GB
+            -   Current LE            24064
+            -   Segments              3
+            -   Allocation            inherit
+            -   Read ahead sectors    auto
+            -   - currently set to    256
+            -   Block device          253:12
+    - fdisk -l
+        - find current partition info
+            - Disk /dev/sda: 206 MB, 206831616 bytes
+            - 12 heads, 32 sectors/track, 1052 cylinders
+            - Units = cylinders of 384 * 512 = 196608 bytes
+            -   Device Boot      Start        End      Blocks  Id  System
+            - /dev/sda1  *          1        1047      200832  83  Linux
+            - Disk **/dev/sdb: 322.1 GB**, 322122547200 bytes
+            - 255 heads, 14 sectors/track, 176231 cylinders
+            - Units = cylinders of 3570 * 512 = 1827840 bytes
+            -   Device Boot      Start        End      Blocks  Id  System
+            - /dev/sdb1              1      89789  160272384  8e  Linux LVM
+            - Disk /dev/sdc: 32.2 GB, 32212254720 bytes
+            - 255 heads, 63 sectors/track, 3916 cylinders
+            - Units = cylinders of 16065 * 512 = 8225280 bytes
+            -   Device Boot      Start        End      Blocks  Id  System
+            - /dev/sdc1              1        3916    31455206  83  Linux
+    - pvdisplay
+        - Find current logical volume info
+            - [user@host ~]$ sudo pvdisplay
+            -   --- Physical volume ---
+            -   PV Name               **/dev/sdb1**
+            -   VG Name              Volume00
+            -   PV Size               **152.85 GB **/ not usable 4.00 MB
+            -   Allocatable          yes (but full)
+            -   PE Size (KByte)      4096
+            -   Total PE              39128
+            -   Free PE              0
+            -   Allocated PE          39128
+            -   PV UUID              lKinsV-v9jn-2waV-ErQa-CTCb-OdPh-PoY3zi
+            -   --- Physical volume ---
+            -   PV Name              /dev/sdc1
+            -   VG Name              Volume00
+            -   PV Size              30.00 GB / not usable 1.97 MB
+            -   Allocatable          yes
+            -   PE Size (KByte)      4096
+            -   Total PE              7679
+            -   Free PE              242
+            -   Allocated PE          7437
+            -   PV UUID              7Hxg1t-954M-8Zvi-Hq2T-Y3qB-AQ7N-yBDZcr
+    - fdisk /dev/sdb
+        - p (print partition table)
+            - Disk /dev/sdb: 164.1 GB, 164120100864 bytes
+            - 255 heads, 14 sectors/track, 89789 cylinders
+            - Units = cylinders of 3570 * 512 = 1827840 bytes
+            -   Device Boot      Start        End      Blocks  Id  System
+            - /dev/sdb1              1      89789  160272384  8e  Linux LVM
+        - n (create new partition)
+            - p (primary)
+            - Partition number (1-4)
+            - First cylinder (1+previous partition'd end cylinder)
+            - Last cylinder (can specify size (+20G) or # of cylinders (+))
+        - t (set partition type)
+            - Select partition number
+            - Hex code (8e for Linux LVM)
+        - w (write)
+    - Reboot
+    - pvcreate /dev/sda3 (The partition # you just created)
+    - vgextend Volume00 /dev/sda3
+    - lvextend -L+2G /dev/Volume00/LogVol06
+    - resize2fs /dev/Volume00/LogVol06

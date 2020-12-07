@@ -1,0 +1,36 @@
+- Introduction
+    - Two voices
+        - 1. Do not fall behind.
+        - 2. Do not risk what you cannot recover.
+        - Events that make children hear the second voice too early are often a source of trauma.
+- Ch 1 (unsorted)
+    - Check out [[Finite and Infinite Games]] by [[James P. Carse]]
+    - "Maximizing the expected returns of your choices is a good strategy only if the consequences of mistakes and misfortunes are reversible. Otherwise, it’s a stupid strategy."
+    - "it is not the best ones who succeed. It is the best ones of those who survive."
+        - In theory, performance determines success. In practice, performance is subordinate to survival.
+    - Coin toss
+        - Rules
+            - Heads = +$1,000
+            - Tails = -$950
+        - On average, you win $25 per bet, so you should play. But if you have less than ${{[[calc]]: ((950 * 2))}}, then you can’t plan a second round if you lose the first.
+    - Risk aversion makes sense in many non-ergodic systems
+    - Ch 1.8
+        - We instinctually know that survival matters, but envy can override this
+            - Envy often doesn make sense because we’re ignoring the parts of the person’s life we don’t like or are ignoring the slim chances that they could get where they did
+            - "Do not envy the survivors of ventures in which you didn’t participate."
+            - "Whenever we desire an outcome because we see those that benefited from it, it is good practice asking yourself, **do you want the outcome, or do you want the opportunity to take the gamble that produced the outcome?** If you only want the former but not the latter, you might be unprepared for what’s to come."
+    - Ch 1.9
+        - Summary so far:
+            - - [[irreversibility]] absorbs future gains.
+            - - The [[population outcome]] is the outcome of many people performing an action once. The [[lifetime outcome]] is the outcome of one person performing an action many times.
+            - - If the population and lifetime outcomes differ, the system that produces them is non-ergodic.
+            - - You can only rely on expected outcomes if you are guaranteed a large number of repetitions. Otherwise, they are misleading ([[the law of large numbers]] requires a large number of repetitions).
+            - - Risk aversion is rational in the presence of non-ergodicity.
+- Ch 2
+    - 2.1
+        - Italian healthcare system worked on average, but failed locally in regions that were hardest hit
+        - Average hides what happens locally. Inidviduals only care what happens locally. 
+        - Most arguments between two good-faith people stem from two things
+            - 1. Optimizing for different metrics
+            - 2. Considering marginal utility of a resource with nonlinear utility (e.g. $100 has higher utility to someone below the poverty line than to a millionaire)
+        - 

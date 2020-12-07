@@ -1,0 +1,7 @@
+- Author:: [[Nate Walkingshaw]]
+- Full Title:: Think of It Like This: We Are a Product Experience Team
+- Category:: [[articles]]
+- URL:: https://medium.com/p/25fdbb201a9
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Customers have experiences. Sometimes they use features while passing through your experience. 
+    - stop building teams around features. Build teams around experiences 

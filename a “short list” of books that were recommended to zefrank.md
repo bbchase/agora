@@ -1,0 +1,168 @@
+- 
+- date:: October 15, 2009 at 5:32 PM
+- url:: http://www.zefrank.com/zesblog/archives/2009/10/a_short_list_of.html
+- 
+- ... when I asked for suggestions on twitter and facebook...this is about a third of the titles that I received back - maybe they will help you find a book too :: PLEASE add your recommendations for GREAT books in the comments :: click below ::
+- The Time Traveler's Wife
+- Naked lunch
+- Cadillac Desert by Marc Reisner
+- Black Swan Green by David Mitchell
+- Flaming Iguanas, Erika Lopez
+- "The Deluxe Transitive Vampire"
+- "Giraffes? Giraffes!"
+- The man who was Thursday, by GK Chesterton
+- Making Meaning
+- Middlesex,
+- The Amazing Adventures of Cavalier and Clay,
+- House of Leaves,
+- Cryptonomicon
+- Head Hunter
+- [x] Extremely Loud and Incredibly Close
+- 1959 The Year that Everything Changed
+- Callahan's Crosstime Saloon
+- Sacred Games by Vikram Chandra
+- Size of the World by Jeff Greenwald
+- Ghostwritten by David Mitchell
+- Purple cow
+- The Secret History, Donna Tartt
+- Atlas Shrugged by Ayn Rand
+- City of Thieves,
+- Devil in White City
+- Zeitoun
+- Hopscotch by Julio Cortazar
+- Shantaram
+- East of Eden
+- The Once and Future King
+- Lolita" by Nabokov,
+- The Book Thief
+- The Book of Lost Things
+- The Enchantress of Florence
+- Big Sur by Jack Kerouac
+- The Brain that Changes Itself
+- ROOTS
+- Three cups of tea
+- Lamb: The Gospel According to Biff Christ's Childhood Pal
+- We Die Alone - Howarth
+- Ball Four" by Jim Bouton
+- Strong Motion by Jonathan Franzen
+- Pale Fire (Nabokov)
+- Master and Margarita (Bulgakov)
+- Nathanial Philbrick's "In the Heart of the Sea: The Tragedy of the Whaleship Essex
+- A Game of Thrones - George R. R. Martin
+- Pontypool Changes Everything by Tony Burgess
+- "Drood," by Dan Simmons
+- M.T. Anderson's Whales on Stilts
+- An Easy Thing by Paco Ignacio Taibo II
+- A Fine Balance By Rohinton Mistry
+- Harpo Speaks by Harpo Marx
+- The Lovely Bones
+- "Jitterbug Perfume" by Tom Robbins
+- "An Abundance of Katherine" by John Green
+- Man's Search for Meaning - Victor Frankl
+- brothers karamazov
+- Another Road Side Attraction" Tom Robbins
+- The Book Of Lost Things by John Connolly
+- "Mans search for meaning"
+- Oysters by Jon Biguenet
+- The Shack
+- The Feast of Love by Charles Baxter
+- the ishmael series by daniel quinn
+- a heartbreaking work of staggering genius
+- "The Art of Racing in the Rain" by Garth Stein
+- islam explained -tahar ben jelloun
+- the jungle - upton sinclair
+- what is the what - dave eggers
+- city of quartz / excavating the future in los angeles - mike davis
+- "The Devil's Advocate: A Short Polemic on How to Be Seriously Good in...
+- Max Blumenthal's,"Republican Gomorrah"
+- Chris Hedges, "Empire of Illusion"
+- Fahrenheit 451
+- Gilead by Marilyn Robinson
+- The Audacity of Hope
+- The Wanting Seed - Anthony Burgess
+- The Road by Cormac McCarthy
+- The Cold Six Thousand
+- invisible monsters - chuck palahniuk
+- Blood Meridian
+- The History of Our World Beyond the Wave, R.E. Klein
+- "The Cellist of Sarajevo"
+- "Little Bee"
+- For F*cks Sake by Robert Lasner
+- "The Dirt" by Neil Strauss and Motley Crue
+- Devil in the White City
+- the curious incident of the dog in the nighttime
+- "The Book of Joby"
+- Callahan's Crosstime Saloon
+- Piers Anthony "on a pale horse"
+- "Novice to Master: An ongoing lesson in the extent of my own stupidity"
+- Ishmael" by Daniel Quinn.
+- Netherland, by Joseph O'neill
+- "the ground beneath her feet" by salman rushdie
+- Bill Bryson's 'A Short History on Nearly Everything'
+- A Fine Balance by Rohinton Mistry
+- "Lord Vishnu's Love Handles: A Spy Novel (Sort Of)" by Will Clarke
+- The Alexandria Quartet
+- The Art of Racing in the Rain
+- Snow Crash by Neal Stephenson
+- Oryx and Crake"
+- "The Year of the Flood"
+- Integral Spirituality
+- "life after god
+- The Stone Raft.
+- The Diamond Age
+- The Hullabaloo in the Guava Orchard
+- Riddley Walker
+- On the Shortness of Life (Penguin Great Ideas)
+- God's Debris/Religion War by Scott Adams
+- Scarecrow by Matthew Reilly
+- The Raw Shark Texts
+- Norwegian Wood by Haruki Murakami
+- Living Nowhere by John Burnside
+- The Count of Monte Cristo
+- jonathan strange & mr norrell
+- Sometimes a Great Notion by Ken Kesey
+- [[I Am a Strange Loop]] by [[Douglas Hofstadter]]
+- Confessions of a Dangerous Mind
+- The Death Ship
+- The Hunter
+- Empire of the Sun, by J.G.Ballard
+- The Shell Collector by Anthony Doerr
+- Out Stealing Horses
+- Wind-Up Bird Chronicle
+- Lost Illusions.
+- Everything you need to know about media
+- Born To Run - Christopher McDougall
+- Weetzie Bat, Francesca Lia Block
+- 'Matter' by Iain M Banks
+- crooked little vein by warren ellis
+- "In A Sunburned Country."
+- Replay by Ken Grimwood
+- "Vincent" by Joey Goebel
+- "The Witch of Portobello" by Paulo Coelho
+- "Everything is illuminated" by J.S. Foer
+- "Rant" -Chuck Palahniuk.
+- The Third Policeman, by Flann O'Brien
+- "A Whole New Mind: Why right-brainers will rule the future" Daniel H. Pink
+- The Baroque Cycle by Neal Stephenson
+- Chabon's Kavalier & Clay.
+- "Gang Leader for a Day" by Sudhir Venkatesh
+- AMERICAN ON PURPOSE, Craig Ferguson
+- Crime and Punishment
+- 'The Shadow of the Wind' by Carlos Ruiz Zafon
+- "My Father's Suitcase" Orhan Pamuk
+- the Discovery of Heaven written by Harry Mulish
+- The Big Orange Splot by Daniel M Pinkwater
+- Saturn's Children by Stross
+- Dancing After Hours
+- the men who stare at goats by jon ronson
+- "Generation Me" Jean Twenge
+- Good Omens by Neil Gaiman and Terry Pratchett
+- The Fabric of Reality by David Deutsch
+- Anathem - Neal Stephenson
+- Light by M. John Harrison
+- Timbuktu by Paul Auster
+- 'kokoro' by natsume soseki
+- 'a thousand cranes' by yasunari kawabata
+- The Story of B by Daniel Quinn.
+- Overqualified by Joey Comeau
+- 1491

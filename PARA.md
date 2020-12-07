@@ -1,0 +1,9 @@
+- [[Projects]]
+    - Projects are time-bound, and goal oriented. For example, “Run a Marathon on March 25th”. Or, “Fix my personal website email capture by April 31”.
+    - They are made up of individual tasks, linked to the goal.
+- [[Areas]]
+    - Areas by contrast, are indefinite arenas where you want to maintain a certain standard. Personal Fitness for example. Or Family. You never “finish” an area.
+- Resources
+    - Resources contains information on a topic that is of ongoing interest or importance. No action required.
+- Archives
+    - Archives contain anything that used to be in projects, areas, or resources but no longer qualifies.

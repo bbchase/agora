@@ -1,0 +1,8 @@
+- Author:: [[Neil Stephenson]]
+- 
+- Author:: [[Neal Stephenson]]
+- Full Title:: The Diamond Age
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51-mXyZ8nVL._SL400_.jpg)
+- ### Highlights first synced by [[Readwise]] [[September 21st, 2020]]
+    - Moral reforms and deteriorations are moved by large forces, and they are mostly caused by reactions from the habits of a preceding period. Backwards and forwards swings the great pendulum, and its alternations are not determined by a few distinguished folk clinging to the end of it. —Sir Charles Petrie, THE VICTORIANS ([Location 33](https://readwise.io/to_kindle?action=open&asin=B000FBJCKI&location=33))

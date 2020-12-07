@@ -1,0 +1,13 @@
+- Author:: [[The Skimm]]
+- Full Title:: How to Skimm Your Life
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Full-bodied white: Three to five days in the fridge 
+    - Body refers to the way a wine feels in your mouth. This is in direct relation to how much alcohol is in a wine 
+    - Red wines are higher in tannins than whites. They leave your mouth feeling dry and kinda like you just had dark chocolate or black tea 
+    - A corked wine smells like soggy cardboard. Pass 
+    - Your red will look brownish and smell-slash-taste like vinegar 
+    - be wary of ordering the second cheapest bottle on the menu. A lot of people do this, so restaurants will sometimes put a bottle they’re looking to get rid of in that position. You’re often better off just going for the cheapest bottle 
+    - The longer the wine’s in contact with the skins, the richer the taste and the deeper the color 
+    - Three to five days in a cool, dark spot.
+The more tannins in a red (that is, the darker and heavier it is) the longer it will keep 

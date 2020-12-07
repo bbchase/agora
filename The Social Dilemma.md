@@ -1,0 +1,207 @@
+- Links
+    - Official Site: https://www.thesocialdilemma.com/
+    - Netflix: https://www.netflix.com/title/81254224
+    - IMDB: https://www.imdb.com/title/tt11464826/
+    - Wikipedia: https://en.wikipedia.org/wiki/The_Social_Dilemma
+- Cast of Characters
+    - [[Tristan Harris]]
+        - [[Google]]
+        - [[Center For Humane Technology]]
+    - Jeff Seibert
+        - [[Twitter]] exec
+    - Bailey Richardson
+        - [[Instagram]]
+    - Joe Toscano
+        - [[Google]]
+        - [[Automating Humanity]]
+    - Sandy Parakilas
+        - [[Facebook]]
+        - [[Uber]]
+    - Guillaume Chaslot
+        - [[YouTube]]
+        - [[IntuitiveAI]]
+        - [[AlgoTransparency]]
+    - Lynn Fox
+    - [[Aza Raskin]]
+        - Mozilla Labs
+        - [[Center For Humane Technology]]
+        - Invented infinite scroll
+        - Father:: [[Jef Raskin]]
+    - Alex Roetter
+    - Tim Kendall
+        - [[Facebook]]
+        - [[Pinterest]]
+        - [[Moment]]
+    - Justin Rosenstein
+    - Randy Fernando
+    - [[Jaron Lanier]]
+    - Roger McNamee
+        - Early [[Facebook]] investor
+    - Dr. Shoshana Zuboff
+    - Dr. Anna Lembke
+    - Jonathan Haidt
+    - Dr. Cathy O'Neil
+    - Rashida Richardson
+    - Renee DiResta
+    - [[Cynthia Wong]]
+    - Chamath
+    - Sean Parker
+        - Facebook
+    - 
+- Notes
+    - Minutes
+        - [[Jaron Lanier]]: It's not that your attention is for sale, it's that slight, almost imperceptible changes in your thoughts and behaviors are for sale.
+        - [[Aza Raskin]]: It's not that our data is being sold. They're using that data to build models that predict our behavior
+        - [[Tristan Harris]]: Three main goals
+            - Engagement: Drives up usage
+            - Growth: Invite friends
+            - Advertising: We're making as much money as possible
+        - Tim Kendall: Dials that we can turn to get more users, more ads, etc
+        - Jaron: We've created a world where it's very easy to connect, but that connection is always facilitated by a sneaky third-party that is manipulating the two people that are connecting.
+        - Persuasive technology
+            - Tristan: A magician understands something about our minds that we aren't aware of
+            - Stanford Persuasive Technology Lab
+                - Many key technology figures went through this class
+            - Positive Intermittent reinforcement (slot machines)
+                - Plant an unconscious habit
+                - That device sitting there... It might have something for you!
+                - When you get an email or notification that someone has tagged you in a photo, why doesn't that email contain the photo? That would be a lot easier. But then you wouldn't visit the site.
+                - "typing indicator"
+                - "growth hacking" industy
+                - "get any individual to 7 friends in 10 days" - Chamath
+                    - Scientific A/B Testing
+                    - We're all lab rats
+                - Facebook experiment
+                    - How do we use subliminal cues to get more people to go vote in the midterm elections. And they succeeded. Users were completely clueless that they were manipulated.
+                - Sean Parker: "We understood this consciously, but we did it anyway"
+                - Tristan: If something is a tool, it's just sitting there. A tool doesn't seduce you, drag you in, or use you.
+                - Tim Kendall: Addicted to his own product ([[Pinterest]])
+                - Aza wrote himself software to make him break his addiction to [[Reddit]]
+                - Trista: Email addiction
+                - Jeff: Even knowing how these tricks work, I'm still susceptible to them
+                - Tim: Willpower was attempt one. Next attempt was brute force
+        - Dr. Anna Lembke: Social media is a drug. We're build to connect and communicate and live in community
+            - Optimized connection to people
+            - The pleasure/pain balance
+            - Dopamine deficit state
+        - Tristan: We evolved to care what our tribe thinks of us, but can we handle caring what 10,000 people think of us?
+        - Jonathan Haidt: Gigantic increase in depression and anxiety among teenagers that began between 2011 and 2013.
+            - Number of teenage girls admitted to a hospital for self-harm was pretty stable until around 2010 or 2011, then it increases 62% for older teens and 189% for pre-teen girls
+            - Same pattern with suicide: older girls up 70%; pre-teens up 151%
+                - [Dylan Selterman](https://www.psychologytoday.com/intl/blog/the-resistance-hypothesis/202010/the-social-dilemma-is-the-new-reefer-madness) uses [some statistics](https://www.statista.com/statistics/187478/death-rate-from-suicide-in-the-us-by-gender-since-1950/) to counter this claim, but this is looking at the whole population, not just young women like the documentary showed. His point that the suicide rates are about where they were 70 years ago also seems disingenuous given the trend between now and then. It's not as if they've been flat. The chart is also misleading since the data point are spread out evenly, but don't represent even periods of time. (and also, still not comparing the same population)
+                - 
+            - Gen Z is the first generation that got on social media in middle school
+            - Fewer get drivers licenses
+            - Fewer have ever gone on a date
+        - Tim: These services are killing people and causing people to kill themselves
+        - Tristan: We have rules for TV advertising to kids. Not so on YouTube
+        - Tristan: We're training people that when we are alone or uncomfortable or afraid, to use technology as a [[digital pacifier]] and that is reducing our ability to calm ourselves
+        - Fernando: This is driven by technology that is expanding exponentially
+        - Tristan: There's a narrative that we'll adapt, but he thinks there's something fundamentally different about this technology and our brains are not going to evolve
+            - Who's gonna win: Your brain or a legion of engineers and algorithms
+        - Tristan: We think about Terminator-style AI, but don't realize that we're already surrounded by AI.
+        - Cathy: Algorithms are opinions embedded in code. Algorithms are not objective, they're optimized for some definition of success (it's usually profit)
+        - Jeff: You give the algorithm a goal and it teaches itself how to reach that goal (ML)
+        - Roger McNamee: When you're on Facebook, you're playing against an AI, but you don't know you are. It's not a fair fight.
+        - Tristan: We were all looking for the moment when technology overcomes human strengths. But we've already crossed the moment where technology has overwhelmed our weaknesses.
+        - Jaron: Think about [[Wikipedia]]: When you visit a page, you're seeing the same thing as everyone else. But what if Wikipedia took money to show you a slightly different version. So it spies on you to try to figure out how it can change the page to benefit the corporate interest.
+        - When you go to Google and type "Climate change is", you're going to see different autocomplete results depending on where you live.
+            - The result isn't what is true, it's just based on where you live
+        - McNamee: It's 2.7 billion Truman Shows.
+            - "We accept the reality of the world we're presented"
+            - We have the false sense that everyone agrees with us because everyone in our feeds sound the same as we do. It turns out that when you're in that state, you're easily manipulated.
+            - It's like a magician setting you up to pick the card they want you to pick. You feel like you're picking your friends and content, but really Facebook is picking it for you.
+        - Rashida: We're all operating with a different set of facts. When that happens at scale, you're no longer able to reckon with information that contradicts your worldview
+        - "How could these people be so stupid? Look at all of this information that I'm constantly seeing. How are they not seeing that same information. The answer is, they're not seeing that information"
+        - Justin: So many of the polarization problems we're discussing exists in spade on cable television, but the internet is just a more efficient way to do that 
+        - Chaslot: Polarization is extremely effective at keeping people online
+            - People feel that the algorithm is trying to show you want you want to see, but it's not. It's trying to find rabbit holes that are going to pull you in.
+        - Tristan: It's not that anyone wants this to happen, but it's the consequence of the recommendation system.
+        - Chaslot: Conspiracy theories get recommended more and more. It's easy to think that other people are stupid for falling for something like flat earth, but the algorithm is getting smarter and smarter every day. Tomorrow it may recommend something that you fall for.
+        - Renée Diresta: I'm not 100% sure how this came about, but somehow Pizzagate was as a joke that ordering a pizza was code for ordering a trafficked person. If the algorithm saw that you liked conspiracy theories, it started feeding you pizzagate recommendations. 
+        - Tristan: MIT study that says fake news spreads 6x faster than real news.
+        - Aza: These things tilt the floor of human behavior. They make some behavior harder and some behavior easier. You're always free to walk up the hill, but fewer people do. So at society scale, you're creating a system that's changing what people think and do.
+        - Truth is boring. Disinformation makes companies more money.
+        - Coronavirus misinformation is spreading. People are blowing up physical cell phone towers. Russia and China are spreading conspiracy theories.
+        - McNamee: Facebook is the best tool for manipulation and control that has ever been created
+        - Wong: This has lead to offline harm
+            - Myanmar, Facebook pre-install on phones. Accounts created when you buy the phone. It's the only thing some people know how to use.
+        - Diresta: it's not that dedicated propagandists haven't existed before, it's that social media makes it ridiculously easy.
+        - Tristan: If I want to manipulate an election, I can go into a conspiracy theory Facebook group and ask Facebook to give me thousands of users who look like them.
+        - Justin: Organization and politicians are getting way better at triggering us and manipulating us. It's as though we have less and less control over who we are and what we believe.
+        - Diresta: Countries that run democratic elections are being targeted
+        - Tristan: You can pay to destabalize countries
+        - McNamee: The Russians didn't hack Facebook, they just used Facebook as inteded for a nefarious purpose.
+        - Tristan: It wasn't about who you wanted to vote for, it was about creating two sides that couldn't hear each other anymore.
+        - Culture wars for sale
+        - Cathy: AI can't solve this problem because AI can't know truth. It just knows clicks.
+        - Jaron: A lot of people in silicon value subscribe to this idea that we're creating some sort of super-brain where people are just computing nodes to be programmed.
+        - Tristan: It's not about technology being the existential threat. It's that technology can bring out the worst in society. The worst in society is the existential threat.
+        - Tristan: The race for attention isn't going away. AI is going to keep getting better.
+        - What are you most worried about?
+            - Tim Kendall: On the short time scale? Civil war.
+            - Jaron: We ruin society, the global economy. We probably don't survive.
+        - Tristan: Is this the last generation of people who will know what it was like before this illusion took place. How do you wake up from the Matrix if you don't know you're in the Matrix
+        - Tristan: It's confusing because it's simultaneous utopia and distopia
+        - Rosenstein: When we created the like button with the goal of spreading love around the world
+        - Sandy: It's OK for companies to make money, but it's not ok for them to run without regulations
+        - Jaron: Whatever solution has to align with financial incentives
+        - Policy
+            - Tax companies on data collection
+            - Outlaw the market for human attention
+            - They can't regulate themselves, that's insane
+        - Rosenstein: A tree is worth more dead than alive. A whale is worth more dead than alive. Oil is worth more in a tank than in the ground.
+            - Now we're the tree. We can be mined. Maybe that will be what wakes us up.
+        - Bailey: Creative things still happen on the interent, but it feels like a giant mall
+        - Tristan: The attention extraction model is not how we want to treat human beings.
+        - Jaron: Every time something has gotten better, it's because someone has come along and said it was stupid.
+        - Rosenstein: I've deleted a bunch of apps that I thought were wasting my time: Social media, news. I've turned off notifications for anything that was vibrating my leg that wasn't delivering timely and important information
+        - Turn off notifications
+        - Jaron: Never watch a recommended video on YouTube
+        - Chrome extensions that remove recommendations
+        - Face-check before you share. Be suspicious if it's pushing your emotional buttons.
+        - Get lots of different kinds of information
+        - Many people in the tech industry don't let their kids use this technology
+        - Three rules
+            - All devices out of the bedroom at a fixed time every night
+            - No social media until highschool (I think it should be 16)
+            - work out a time budget with your kid (ask them what you think is a good amount of time)
+        - Jaron: I know I won't get everyone to delete their account. Get a few people to delete their accounts. Create a space for the conversation. 
+    - Questions and Ideas
+        - Can there exist a massive communications network that does not create an attention economy? Can there exist a massive communications network that does not expose millions of eyeballs to capitalists?
+        - Didn't the attention economy already exist with radio, TV, and movies?
+            - I think yes, but on a different scale and with certain limits - you can be on your phone way longer than you can be in front of a TV
+        - {{[[embed]]: ((VD2I48UOJ))}}
+            - Well, how on Earth do we get out of this? How can we trust what we're seeing anywhere if there's a chance we're just being shown it because it makes someone money.
+                - Including this documentary! 
+                    - Although, that would sort of prove the point, no? I guess the documentary could be telling us the truth, but steering us away from the answer. But now how is this line of thought different from some crazy conspiracy theory?
+        - What are the liberal versions of these conspiracy theories? What are the half-truths that we believe and don't notice.
+        - How do you spread this idea if you aren't on social media?
+    - Reactions
+        - What does it mean that the company that made this documentary ([[Netflix]]) decrying the attention economy is most certainly a major competitor in the attention economy?
+        - Bunch of rich whites dudes going, "Oopsie Doopsie"
+        - But also really compelling. So compelling that I don't entirely trust it.
+        - The storyline at the end felt like a bit much (kids getting arrested at a protest), but they also followed it up with real footage of kids getting arrested at protests.
+        - This was a really good time to watch this because of how hard it was to be technology-less for 24 hours and how hard it was to keep from slipping further and further into habitual technology use this week.
+    - Criticism
+        - Thoughts
+            - There might be an aspect of guilt here driving these people to up the alert factor.
+            - It might also be a consequence of believing that their app was going to change the world for good that they now see these apps as a doomsday device
+            - It may have felt like the world was about to crumble during the witch trials. There are some legit scary things happening, but maybe the doom of the human race is not so imminent
+            - [This last one](((RMlo13vCO))) really got me. Ok, ok. I got caught up in the hype and the fear. I got carried away with "gee, I spend too much time on the internet" and road that wave all the way down to "society is doomed." Maybe I wanted to believe that the solution to my small problem is actually a crusade that needs waging. Yes! While we're at it, why not wage a war on looking out the window, forgetting our keys, and waiting until the last minute to do things!
+                - Come to think of it, maybe this is where a lot of social crusades come from. Maybe these are all misplaced guilt.
+                    - I do wish I didn't drink so much. Prohibition!
+                    - Mayhaps I should spend less time looking at porn. NOFAP!
+                        - Maybe there’s a parallel here with the guilt-cycle of religious masturbation. You believe you shouldn’t do it, you have VERY STRONG urges to do it, so you do it anyway. then you feel guilty. then there’s this cycle of shame and indulgence. Mayne that’s what we’re doing this all these rules about phones. 
+                    - Sometimes I feel compelled to do things I feel are unhealthy. Dopamine fasts!
+                    - Maybe the anti-abortion movement was started by someone who thought that abortion was a free ticket to unprotected sex and then regretted that decision.
+        - https://www.bustle.com/life/is-the-social-dilemma-accurate-cybersecurity-expert-explains
+        - https://www.psychologytoday.com/intl/blog/the-resistance-hypothesis/202010/the-social-dilemma-is-the-new-reefer-madness
+        - https://slate.com/technology/2020/09/social-dilemma-netflix-technology.html
+        - https://www.msn.com/en-us/news/technology/what-e2-80-98the-social-dilemma-e2-80-99-misunderstands-about-social-networks/ar-BB1966in
+        - https://www.theverge.com/2020/9/4/21419993/the-social-dilemma-jeff-orlowski-netflix-movie-review-social-media-algorithms
+            - "But these tech apostates are products of the same Silicon Valley culture they’re criticizing, and they’re selling a version of the same mythos: that a few omnipotent engineers caused the apocalypse by building a perfect mind-control machine."
+        - https://www.techdirt.com/articles/20200928/11452045401/social-dilemma-manipulates-you-with-misinformation-as-it-tries-to-warn-you-manipulation-misinformation.shtml
+        - https://www.thepullrequest.com/p/the-social-dilemma-and-the-last-fucking
+            - "Traitors always exert a strange fascination on the human mind."
+            - 

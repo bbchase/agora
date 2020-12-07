@@ -1,0 +1,7 @@
+- Author:: [[Allie Brosh]]
+- Full Title:: Hyperbole and a Half
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51z9qHyulKL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - The longer I procrastinate on returning phone calls and emails, the more guilty I feel about it. The guilt I feel causes me to avoid the issue further, which only leads to more guilt and more procrastination. It gets to the point where I don’t email someone for fear of reminding them that they emailed me and thus giving them a reason to be disappointed in me. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B00BSB2AE4&location=993))
+    - If something I don’t like happens, then several more things that I don’t like happen directly afterward, that is too many. They shouldn’t cluster like that. ([Location 1211](https://readwise.io/to_kindle?action=open&asin=B00BSB2AE4&location=1211))

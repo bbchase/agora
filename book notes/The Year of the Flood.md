@@ -1,0 +1,19 @@
+- Author:: [[Margaret Atwood]]
+- Full Title:: The Year of the Flood
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51veygGK%2BhL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - The Human Words of God speak of the Creation in terms that could be understood by the men of old. There is no talk of galaxies or genes, for such terms would have confused them greatly! But must we therefore take as scientific fact the story that the world was created in six days, thus making a nonsense of observable data? ([Location 172](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=172))
+    - But why didn’t God already know what names Adam would choose? The answer can only be that God has given Adam free will, and therefore Adam may do things that God Himself cannot anticipate in advance. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=185))
+    - His generation believed that if there was trouble all you’d have to do was shoot someone and then it would be okay. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=338))
+    - “Then I had to get past the Wall,” she said. “What wall?” “Don’t you watch the news? The Wall they’re building to keep the Tex refugees out, because just the fence wasn’t enough. ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=1173))
+    - My Ark enfolds the million years That Adam spent in slumber. ([Location 1249](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=1249))
+    - Getting time over with. ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=1278))
+    - The strictly materialist view — that we’re an experiment animal protein has been doing on itself — is far too harsh and lonely for most, and leads to nihilism. ([Location 3247](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=3247))
+    - Quadrupally encrypted. ([Location 3672](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=3672))
+    - We have shed our plain vestments and swathed ourselves in mallway purchases. The monogrammed golf shirt, the lime green tank top, the striped pastel knit ensemble sported so courageously by Nuala — such is our defensive armour. ([Location 3722](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=3722))
+    - “Ren. Ren. Everyone’s too sad for everything.” ([Location 4102](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=4102))
+    - “He’s a geek. He wants us to say what we honestly feel.” Which confused them a lot. ([Location 4152](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=4152))
+    - that’s how people got the idea of the immortality of the soul — it was a consequence of grammar. ([Location 4248](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=4248))
+    - as soon as there’s a past tense, there has to be a past before the past, and you keep going back in time until you get to I don’t know, and that’s what God is. ([Location 4249](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=4249))
+    - God is a brain mutation, and that gene is the same one birds need for singing. So music is built in, Glenn said: it’s knitted into us. It would be very hard to amputate it because it’s an essential part of us, like water. ([Location 4251](https://readwise.io/to_kindle?action=open&asin=B002PXFYKG&location=4251))

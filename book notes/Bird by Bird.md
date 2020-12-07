@@ -1,0 +1,6 @@
+- Author:: [[Anne Lamott]]
+- Full Title:: Bird by Bird
+- Category:: [[books]]
+- "Some days it feels like you just have to keep getting out of your own way do that whatever it is that wants to be written can use you to write it."
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Every morning, no matter how late he had been up, my father rose at 5:30, went to his study, wrote for a couple of hours, made us all breakfast, read the paper with my mother, and then went back to work for the rest of the morning. Many years passed before I realized that he did this by choice, for a living, and that he was not unemployed or mentally ill 

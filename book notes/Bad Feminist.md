@@ -1,0 +1,10 @@
+- Author:: [[Roxane Gay]]
+- Full Title:: Bad Feminist
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/41xj82w7lZL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Feminism, as of late, has suffered from a certain guilt by association because we conflate feminism with women who advocate feminism as part of their personal brand. When these figureheads say what we want to hear, we put them up on the Feminist Pedestal, and when they do something we don’t like, we knock them right off and then say there’s something wrong with feminism because our feminist leaders have failed us. We forget the difference between feminism and Professional Feminists. ([Location 65](https://readwise.io/to_kindle?action=open&asin=B00G2AGV14&location=65))
+    - We need to stop playing Privilege or Oppression Olympics because we’ll never get anywhere until we find more effective ways of talking through difference. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00G2AGV14&location=343))
+    - We should be able to say, “This is my truth,” and have that truth stand without a hundred clamoring voices shouting, giving the impression that multiple truths cannot coexist. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B00G2AGV14&location=344))
+    - An alarming number of my students don’t seem to want to be in college. They are in school because they don’t feel they have a choice or have nothing better to do; because their parents are making them attend college; because, like most of us, they’ve surrendered to the rhetoric that to succeed in this country you need a college degree. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00G2AGV14&location=419))
+    - I am quite content to be in my thirties, and nothing affirms that more than being around people in their late teens and early twenties. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00G2AGV14&location=433))

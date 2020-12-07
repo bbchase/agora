@@ -1,0 +1,17 @@
+- Author:: [[Peter Walsh]]
+- Full Title:: It's All Too Much
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Does this item enhance the life we want to live? 
+    - Sure—just give me ten minutes to find them. Or an hour. 
+    - Wood polish and a rag—I was just wiping it. 
+    - The clutter somehow becomes a life raft for all the “just in cases” we can imagine 
+    - Excuse #1: “I Might Need it One Day.” 
+    - Do I even remember what’s inside these boxes? Do I need it? Do I honor and respect it? 
+    - In any year, more than two-thirds of households in this country spend a sizable portion of their disposable income on videos and DVDs, music and CDs, books and magazines, specialized personal care products, and candles. More 
+    - I have every issue of National Geographic ever published. It’s an outstanding collection 
+    - A handful—we use them to recycle newspapers 
+    - Maybe tomorrow. The living room’s a mess, but I can hide it away in a few hours 
+    - Did the stuff they owned contribute to the lives they were hoping to achieve, or was it getting in the way of that vision? 
+    - They fit, I guess, but I have no idea what’s on the top shelf 
+    - “If you met Jen for the first time today, is this the bedroom you’d want to bring her home to?” 

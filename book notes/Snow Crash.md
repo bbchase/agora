@@ -1,0 +1,8 @@
+- Author:: [[Neal Stephenson]]
+- Full Title:: Snow Crash
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51yI5lXG7IL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - “For the most part I write myself,” the Librarian says. “That is, I have the innate ability to learn from experience. But this ability was originally coded into me by my creator.” ([Location 1874](https://readwise.io/to_kindle?action=open&asin=B000FBJCJE&location=1874))
+    - Besides, interesting things happen along borders—transitions—not in the middle where everything is the same. ([Location 2094](https://readwise.io/to_kindle?action=open&asin=B000FBJCJE&location=2094))
+    - Therefore, the Metaverse is wide open and undefended, like airports in the days before bombs and metal detectors, like elementary schools in the days before maniacs with assault rifles. ([Location 6162](https://readwise.io/to_kindle?action=open&asin=B000FBJCJE&location=6162))

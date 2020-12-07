@@ -1,0 +1,6 @@
+- Author:: [[Lindsey Markel]]
+- Full Title:: You Are Among Friends
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51DirvjFdNL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Oh, and if you ever ride the MTD in Champaign-Urbana, Illinois—to open the back door, you just press on the door handle. For some reason there are signs and directions that instruct you on how to do everything but that. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B003RITJOA&location=328))

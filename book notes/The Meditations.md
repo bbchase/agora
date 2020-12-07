@@ -1,0 +1,49 @@
+- Author:: [[Marcus Aurelius, Ancient Renewal, Sam Torode ]]
+- Full Title:: The Meditations
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51lIl3FP9gL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - He investigated each matter carefully and thoroughly, never satisfied with first appearances. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=97))
+    - I can’t be angry with my fellow humans. We were made to work together, like pairs of hands, feet, eyelids, or rows of teeth. To hate each other is against the laws of nature. No one can hurt me but myself, for no one else can make me forsake the good and embrace the bad. ([Location 124](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=124))
+    - Put away entertainments, set aside distractions, and look at yourself as you truly are: blood and bones, a network of nerves and veins. Your breath is only air, sucked in one moment and blown out the next. The mind, then, is the ruling part. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=128))
+    - stop being dissatisfied with today and afraid of tomorrow. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=130))
+        - **Tags**: [[orange]]
+    - if you don’t clear the clouds from your mind now, you may never have another chance. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=139))
+    - Every moment, focus your attention and perform the task at hand with simplicity, efficiency, and dignity. Fill your mind with thoughts of love, freedom, and justice, leaving no room for negative and destructive thoughts. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=141))
+        - **Tags**: [[orange]]
+    - Few things are worse than nosy people who try to conjecture what’s in their neighbors’ minds, instead of tending to their own. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=168))
+    - When human nature rebels against Mother Nature, humanity becomes a cancer on the earth. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=184))
+    - Cast aside all that is extraneous and superfluous, and cling to the few things that really matter. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=249))
+    - What troubles you? The bad behavior of people? Remember these principles: humans are meant to live together in community; some do wrong unconsciously because they are ignorant; ([Location 289](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=289))
+    - If so much is transitory and fleeting, what is worth doing? Retreat into your inner sanctuary. Here, away from strain and distraction, you are free to observe the world and your reactions objectively. ([Location 295](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=295))
+    - To change your experience, change your opinion. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=308))
+    - don’t gawk at the missteps of others. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=320))
+    - Beauty does not need the support of praise, or anything else. The same goes for truth, justice, and goodness. Do any of these depend on popularity contests? Can any of them be discredited by insults? ([Location 324](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=324))
+    - In all [[time]]s and places, consider how many people were born, made great efforts, and returned to the earth from which they came. Consider how many others whittled their [[time]] away on frivolous pursuits and idle distractions. ([Location 354](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=354))
+    - Focus on what’s important. Give great attention to great matters, and little attention to little matters. ([Location 356](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=356))
+    - Even if it were possible for you to be remembered eternally, what is remembrance worth to you? Nothing. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=362))
+    - What, then, should we strive for in life? Right thoughts, beneficial actions, honest speech, and a cheerful disposition. These things are in harmony with, and flow from, the eternal Source of all. ([Location 363](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=363))
+        - **Tags**: [[orange]]
+    - In evaluating a person, always look for their ruling principles. What do they pursue? What do they avoid? ([Location 368](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=368))
+    - Reason does not separate us from the universe. Our ability to sense, perceive, and understand is itself a power of the universe. You are a part of the universe, perceiving itself. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=374))
+    - Life is not disjointed but logical. Everything that happens is the consequence of what came before. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=378))
+    - When the day brings events that seem strange and unusual, remember: the universe is ruled by reason. ([Location 379](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=379))
+        - **Tags**: [[orange]]
+    - Pass through this life peacefully, in harmony with nature. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=381))
+    - Am I unhappy because of what happened to me? No. I remain happy because, regardless of circumstances, I am free—neither crushed by the present nor afraid of the future. Storms befall everyone; but not everyone can stand firm against them. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=385))
+        - **Tags**: [[stoicism]] [[orange]]
+    - Always take the shortest path—by which I mean the direct, natural route to your goal. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=397))
+    - When it’s hard to get out of bed in the morning, remind yourself: I am rising to resume my life’s work. How can I be unhappy when I have another opportunity to do what I was born to do? ([Location 400](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=400))
+    - Rest is for recharging, not for indulgence. Take only what is sufficient for your health and vitality. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=405))
+    - Dwell on thoughts that are in harmony with nature and her laws, and act accordingly. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=411))
+    - Don’t let yourself be pulled off course by the insults or injuries of others. Let them go their way and you go yours, continuing on the path of reason. This is not selfish or antisocial on your part—far from it. Your individual reason is not opposed to the common good, but in harmony with it. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=412))
+        - **Tags**: [[orange]]
+    - A third sort of person doesn’t even know what they’ve done; they bear good deeds as a vine bears grapes—naturally, without thinking about it. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=423))
+    - Don’t be discouraged if you fail to live up to your principles all the time. When you stumble, get up and keep going. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=435))
+    - In every activity, ask whether your soul is engaged. Is reason at the helm or asleep? Are you following a guiding principle or groping blindly? ([Location 445](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=445))
+    - This thing I desire—does human nature include it? Promise it? Require it? Is it essential to my development and fulfillment? Or would patiently going without it make me a better person? ([Location 452](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=452))
+    - pleasure and pain reveal nothing about whether something is ultimately good or bad for you. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=479))
+    - It is within your power to gently admonish them, letting them know that their odor is offensive. Let your reason appeal to their reason, and they may go clean themselves up. Either way, it’s no use to be angry. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=485))
+    - good fortune consists of a good attitude, good thoughts, and good actions. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=503))
+    - As long as you are doing your duty, pay no mind to whether you are comfortable or uncomfortable, well-rested or drowsy, praised or insulted, feeling pleasure or pain. ([Location 508](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=508))
+    - remain simple, generous, just, kind, free from pomp and pretense. Be reverent to the gods and strive to help people. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B073T331XJ&location=561))

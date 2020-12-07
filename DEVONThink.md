@@ -1,0 +1,18 @@
+- 
+- Thoughts on replacing Evernote
+    - Handles many different types of text files
+        - plain text
+        - markdown
+        - rich text
+        - HTML
+        - Formatted note (not sure what this is)
+        - Sheet (not sure what this is
+    - Markdown editing modes: source, preview, split-pane
+    - Web clipper seems pretty versatile - lets you clip markdown versions.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fbbchase%2FFn0XBDSohv.png?alt=media&token=b5960ef4-0ce6-456f-93de-adf8f6faf10a)
+        - Saving plain text and markup versions is pretty awesome
+        - Clutter-free is also pretty great
+        - Comments could let me pre-make links and tags
+    - It feels a bit clunky. The interface is very busy and I often feel like I can't find the thing I'm looking for
+    - I'm not sure how well OCR works. Seems to be great for PDFs, but I'm not sure about finding text in images. Maybe I just need to fiddle.
+    - 

@@ -1,0 +1,9 @@
+- Author:: [[community.infoblox.com]]
+- Full Title:: How Many [[IPv6]] Nodes Can You Have on a LAN?
+- Category:: [[articles]]
+- URL:: https://community.infoblox.com/t5/IPv6-CoE-Blog/How-Many-IPv6-Nodes-Can-You-Have-on-a-LAN/ba-p/6092
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - 2^64 equals 18,446,744,073,709,551,616 unique IIDs, but “18 quintillion” is much easier to say. That is an extremely large number of possible nodes on a single network 
+    - creating a truly IPv4-only network may be difficult because most nodes now support IPv6. IPv6 is enabled by default is most operating systems. IPv6 packets are traversing the LAN network even if there isn’t a first-hop router that is acting as an IPv6 default gateway. To create an IPv4-only network, you would need to disable the IPv6 protocol stack in all the nodes on the LAN. Not only is this difficult to achieve, but it is not recommended by OS manufacturers 
+    - If the network truly is an IPv6-only network, then it might be possible to have a few thousand nodes on a LAN segment at the same time. 
+    - An IPv6-only network may be able to have up to ~5000 nodes on it due to the efficiencies of multicast. 

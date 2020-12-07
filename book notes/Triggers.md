@@ -1,0 +1,8 @@
+- Author:: [[Marshall Goldsmith, Mark Reiter]]
+- Full Title:: Triggers
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OuPZAKHJL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - In the morning, when we plan to work long hours and finish our assignment we are not exhausted. We may feel fresh and full of energy. But after we work several hours we become tired and more vulnerable to throwing in the towel. When we plan to achieve our goals, we believe that our energy will not flag and that we will never lose our enthusiasm ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00N6PEN0Y&location=488))
+    - As we go through life making plans to be a better friend, partner, worker, athlete, parent, son, or daughter, inside each of us are two separate personas. There’s the leader/planner/manager who plans to change his or her ways. And there’s the follower/doer/employee who must execute the plan. We think they are the same because we unwittingly function as one or the other throughout our day. They are both part of who we are. But we are wrong. ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B00N6PEN0Y&location=1060))
+    - we start each day as a bifurcated individual, one part leader, the other part follower—and as the day progresses, the two grow further apart. ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B00N6PEN0Y&location=1064))

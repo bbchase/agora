@@ -1,0 +1,6 @@
+- Author:: [[Neil Gaiman]]
+- Full Title:: The Ocean at the End of the Lane
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OkAAO%2BtuL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - “You don’t pass or fail at being a person, dear.” ([Location 2539](https://readwise.io/to_kindle?action=open&asin=B009NFHF0Q&location=2539))

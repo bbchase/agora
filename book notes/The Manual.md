@@ -1,0 +1,77 @@
+- Author:: [[Epictetus, Ancient Renewal, Sam Torode]]
+- Full Title:: The Manual
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51EuP5wZlbL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Whenever distress or displeasure arises in your mind, remind yourself, “This is only my interpretation, not reality itself.” Then ask whether it falls within or outside your sphere of power. And, if it is beyond your power to control, let it go. ([Location 64](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=64))
+    - End the habit of despising things that are not within your power, and apply your aversion to things that are within your power. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=72))
+    - If you have a favorite cup, remember that it is only a cup that you prefer—if it is broken, you can bear it. ([Location 79](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=79))
+    - If something undesirable happens, you will be able to say, “My desire is not only to swim, but to remain in harmony with the nature of things. I cannot stay in harmony if I let myself become upset by things beyond my control.” ([Location 87](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=87))
+    - People are not disturbed by things themselves, but by the views they take of those things. ([Location 92](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=92))
+    - People who are ignorant of philosophy blame others for their own misfortunes. Those who are beginning to learn philosophy blame themselves. Those who have mastered philosophy blame no one. ([Location 95](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=95))
+    - Do not take satisfaction in possessions and achievements that are not your own. If a horse were to say, “I am handsome,” his pride may be excusable. But if you boast, “I have a handsome horse,” you are claiming merit that is not yours. ([Location 98](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=98))
+    - What, then, is your own? The way you live your life. When you are living in harmony with nature, you can take just satisfaction. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=100))
+        - **Tags**: [[orange]]
+    - in life, remain steadfast in pursuing your mission, always willing to shed distractions. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=106))
+    - The only thing that can impede your will is your will itself. ([Location 113](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=113))
+        - **Note**: Is that true though? Psychologically? It seems that mood disorders can impede your will. 
+
+Unless...
+    - Each time an obstacle arises, remind yourself of this truth. ([Location 113](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=113))
+    - Whenever a challenge arises, turn inward and ask what power you can exercise in the situation. ([Location 117](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=117))
+    - as long as the Source entrusts something to your hands, treat it as something borrowed, like a traveller at an inn. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=125))
+    - It is better to die poor, while free from fear and grief, than to live surrounded by riches and filled with anxiety. And it is better that your employee be guilty than you be angry. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=130))
+    - If you wish to be free, do not desire anything that depends on another, lest you make them your master. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=145))
+    - “What upsets this person is their opinion of what has happened. Another in the same circumstance, taking a different perspective, would react quite differently.” ([Location 156](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=156))
+    - Do not share these thoughts with the grieving person. Sympathize with them—even cry with them. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=158))
+        - **Tags**: [[orange]]
+    - You cannot choose the era, nationality, family, and body into which you are born. But to act well in your given role—this is your sphere of power. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=163))
+    - “Nothing is foreboding to me. All signs point to good luck, if I interpret them that way. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=167))
+    - When anyone provokes you, remember that it is actually your own opinion provoking you. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=177))
+    - Continually remind yourself that you are a mortal being, and someday will die. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=182))
+    - do not adopt any air of superiority. Mind your own business, keep busy with the work you are best suited for, and play well the part the Author has given you. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=187))
+    - “But I want power and renown so that I may help other people,” you say. What do you mean by “help”? Can you really give them happiness and satisfaction—things that are in their own spheres of power, not yours? And can you give someone something that you, yourself, don’t even have? ([Location 199](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=199))
+    - “But I’ll get money, and then share it.” If you can acquire riches without losing your honor and self-respect, then do it. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=201))
+        - **Tags**: [[orange]]
+    - “But if I become rich, I could help the entire country.” Again, is this really true? Will people not have food and shelter without your providing them? Are there not metal smiths, brick makers, home builders, farmers, grocers, and so on? It is enough for each person to tend to his or her own proper work. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=204))
+    - Each person has a vital role in society; you are important right where you are. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=207))
+        - **Tags**: [[orange]]
+    - if you have not been invited to a party, it is because you haven’t paid the price of the invitation. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=217))
+    - Do you have anything good in place of the invitation? Yes—you have the pleasure of not making small talk with people you don’t really like, not praising someone you don’t admire, and not mingling with lackeys. ([Location 219](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=219))
+    - Evil is not a thing in itself but a missing of the mark, an arrow gone astray. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=231))
+    - If someone tried to take control of your body and make you a slave, you would fight for freedom. Yet how easily you hand over your mind to anyone who insults you. When you dwell on their words and let them dominate your thoughts, you make them your master. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=234))
+    - You may fancy yourself a wrestler, then a gladiator, then an orator, then a philosopher—but never begin training in earnest. If so, you are a dabbler who samples many fields, but when the time comes to commit to one, you move on to the next. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=245))
+    - Whatever your vocation, pursue it wholeheartedly. Consider, choose, and commit. ([Location 252](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=252))
+    - Before judging his behavior, look to your own. Fulfill your duties to the best of your ability. If he insults or rejects you, do not stoop to his level and retaliate in anger. Hold securely to your clear conscience and inner harmony. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=258))
+    - Stop judging the things that fate brings you as “good” or “evil”; only judge your own thoughts, desires, and actions as good or evil. ([Location 266](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=266))
+    - Where our attention and affection lie, there too is our worship. Take care, then, where you direct your focus, desires, and dislikes. ([Location 271](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=271))
+    - In devotion, be neither careless nor extravagant. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=272))
+    - Be the same person in public as in private. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=284))
+    - Speak only what is useful and beneficial. In conversation, avoid idle chatter about horse races, athletes, celebrities, food, and drink. Refuse to participate in gossip—tearing down, inflating, and judging other people. Among friends, shift the conversation to worthy topics; among strangers, stay silent. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=285))
+        - **Tags**: [[orange]]
+    - Avoid taking oaths (binding your will to another person or group of people) as much as possible. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=288))
+    - Avoid vulgar entertainments. Sometimes you may accept an invitation out of politeness—in that case, go but keep your mental distance. But if your friends keep inviting you out to degrading shows, find new friends—or you will soon find yourself off the path and in a mud pit. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=289))
+        - **Tags**: [[orange]]
+    - do not assume a posture of moral superiority and look down upon those who behave otherwise. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=292))
+    - If a friend tells you that someone has criticized or insulted you, say, “They must not know about my other faults, or they would have pointed out those, too.” ([Location 293](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=293))
+        - **Tags**: [[orange]]
+    - When you attend the games, do not get emotionally invested in the rivalry. Wish only that the best team or athlete wins. Avoid the extremes of elation at a win and devastation at a loss. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=294))
+    - When you feel burning desire for something that appears pleasureful, you are like a person under a spell. Instead of acting on impulse, take a step back—wait till the enchantment fades and you can see things as they are. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=302))
+    - If reason tells you a pleasure is wholesome and harmless, you may enjoy it in moderation. But take care not to let your happiness gradually become dependent on it. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=306))
+        - **Tags**: [[orange]]
+    - If you are off course, correct yourself. But if you know you are in the right, why fear those who misjudge you? ([Location 311](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=311))
+    - Black and white thinking may seem powerful in speeches and debates, but real life is mostly gray areas. It is rarely a question of good versus bad, but of weighing greater and lesser goods on a scale of values. ([Location 314](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=314))
+    - If you win the adoration of others by pretending to be someone you’re not, you may gain celebrity or high office—but you will lose out on the fulfillment of a life best-suited to your attributes and abilities. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=320))
+    - Once you let your appetite exceed what is necessary and useful, desire knows no bounds. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=329))
+    - Whenever someone helps or hinders you, or praises or criticizes you, remember that they see you only through the lens of their own impressions. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=341))
+    - For if someone mistakes truth for falsehood, the truth is not harmed, but only the person deceived. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=343))
+    - do not try to grasp the situation by the handle of retribution—it will burn your hand. Instead, reach for the opposite handle of reconciliation. ([Location 347](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=347))
+    - Does a person bathe quickly? Do not say that they bathe poorly, but only quickly. Does a person drink a lot of wine? Do not say they drink badly, but only in abundance. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=358))
+    - Do not mistake your impressions for the whole truth. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=360))
+        - **Tags**: [[orange]]
+    - At a feast, do not give a speech about how everyone should eat. Only eat as you should. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=364))
+    - Sheep do not spit out grass to show the farmer how much they’ve eaten—they ruminate on it, digest it, then display the results in wool and milk. In the same way, do not spew your undigested thoughts; show their results in action. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=367))
+        - **Tags**: [[orange]]
+    - An ignorant person is one who is tossed about between elation and despair by external forces and events. A philosopher is one whose thoughts and emotions are internally anchored. She criticizes no one, praises no one, blames no one. She considers herself a student, not an expert. When she fails, she takes responsibility. When she succeeds, she smiles to herself. She controls her desires. She hates only those things which hinder the free use of her will. She acts with calm deliberation. If she comes across as knowing nothing in eyes of others, she does not care. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=376))
+    - If you hear a teacher boast of being able to understand and interpret the writings of Chysippus, remember—if Chysippus had written clearly and simply, there would be nothing to brag about. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=383))
+    - Follow your principles as though they were laws. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B072KZWHW4&location=391))

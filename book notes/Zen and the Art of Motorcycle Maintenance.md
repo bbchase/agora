@@ -1,0 +1,9 @@
+- Date:: Sunday, Jan 12, 2014, 2:48 PM
+- Link:: https://www.evernote.com/shard/s1/nl/48981/188f34d1-dd73-4cfb-86a1-bac19085f553?title=Zen%20and%20the%20Art%20of%20Motorcycle%20Maintenance
+- 
+- [[books]] 
+- Author:: Robert M. Pirsig
+- 
+- “I take off my boots and socks which are soggy with sweat and set them out to dry on a rock. I stare at them meditatively as vapors from them rise up toward the sun.”
+- “It's been said that romantic attitudes toward Quality such as the Sutherlands have are, by themselves, hopeless. You can't live on just groovy emotions alone. You have to work with the underlying form of the universe too, the laws of nature which, when understood, can make work easier, sickness rarer and famine almost absent. On the other hand, technology based on pure dualistic reason has also been condemned because it obtains these material advantages by turning the world into a stylized garbage dump. Now's the time to stop condemning things and come up with some answers.”
+- 

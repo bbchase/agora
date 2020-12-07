@@ -1,0 +1,19 @@
+- Author:: [[Daniel J. Levitin]]
+- Full Title:: Organized Mind
+- Category:: [[books]]
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - happy people are not people who have more; rather, they are people who are happy with what they already have 
+    - decision overload 
+    - information processing makes us [[Tired]] 
+    - One out of every three working Americans gets less than six hours’ sleep per night 
+    - Every status update you read on Facebook, every tweet or text message you get from a friend, is competing for resources in your brain with important things like whether to put your savings in stocks or bonds, where you left your passport, or how best to reconcile with a close friend you just had an argument with 
+    - The decision-making network in our brain doesn’t prioritize 
+    - ignoring and deciding comes with a cost 
+    - We typically trust them as “experts” more than we trust ourselves. “My trainer told me to do three sets of ten reps at forty pounds—he’s a trainer, he must know what he’s talking about. I can’t design my own workout—what do I know?” It takes Herculean amounts of discipline to overcome the brain’s bias against self-generated motivational systems. Why? Because as with the fundamental attribution error we saw in Chapter 4, we don’t have access to others’ minds, only our own. We are painfully aware of all the fretting and indecision, all the nuances of our internal decision-making process that led us to reach a particular conclusion. (I really need to get serious about exercise.) We don’t have access to that (largely internal) process in others, so we tend to take their certainty as more compelling, in many cases, than our own. (Here’s your program. Do it every day.) 
+    - After extensive clinical trials spanning decades and many different research labs and protocols, it’s been found that multivitamins are not effective for anything at all. In fact, vitamins can harm. In the doses contained in vitamin pills, Vitamin E and folic acid are associated with increased risk for cancer. Excess Vitamin D is associated with an increased risk for cardiac inflammation, and excess Vitamin B6 is associated with nerve damage. 
+    - We can have trouble separating the trivial from the important 
+    - the prefrontal cortex contains circuits responsible for telling us whether we’re controlling something or someone else is. When we set up a system, this part of the brain marks it as self-generated. When we step into someone else’s system, the brain marks it that way. This may help explain why it’s easier to stick with an exercise program or diet that someone else sets up: 
+    - Attention is the most essential mental resource for any organism 
+    - Two of the most crucial principles used by the attentional filter are change and importance 
+    - The processing capacity of the conscious mind has been estimated at 120 bits per second 
+    - a word to describe not getting the very best option but one that was good enough 

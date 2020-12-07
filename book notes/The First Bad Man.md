@@ -1,0 +1,8 @@
+- Author:: [[Miranda July]]
+- Full Title:: The First Bad Man
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/41zPmS4BKbL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - The baby was swinging a crystal from a string. I checked to see if he and I had a special connection that was greater than his bond with his mother. We didn’t. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B00IWTWTFA&location=132))
+    - I could see it so clearly, the zygote—shiny and bulbous, filled with the electric memory of being two but now damned with the eternal loneliness of being just one. The sorrow that never goes away. ([Location 2021](https://readwise.io/to_kindle?action=open&asin=B00IWTWTFA&location=2021))
+    - My system wasn’t really applicable to babies. Babies ruined everything. Secret plan to get in bed and never move again? Ruined. Tendency to pee in jars when very sad? Ruined. ([Location 3263](https://readwise.io/to_kindle?action=open&asin=B00IWTWTFA&location=3263))

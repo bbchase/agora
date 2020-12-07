@@ -1,0 +1,14 @@
+- Author:: [[Cait Flanders ]]
+- Full Title:: The Year of Less
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/41qwzQXDF0L._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - One thing debt and clutter have in common is that as soon as you start letting it pile up, it can be harder and harder to see your way around it. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=246))
+    - The truth is, it was a decision made only after thinking I should get rid of some of this stuff countless times before. It was the same way I used to think I should stop using my credit cards, or I should stop binging on junk food, or I should stop drinking so much. The excuse I would always tell myself was that I would do it “one day.” ([Location 267](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=267))
+    - a 1991 white Hyundai Excel named Roxy ([Location 296](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=296))
+    - The toughest part of not being allowed to buy anything new wasn’t that I couldn’t buy anything new—it was having to physically confront my triggers and change my reaction to them. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=577))
+    - In each instance, I would pause, take in my surroundings, and try to figure out why I was thinking about making a purchase. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=580))
+    - Why do we encourage each other to spend money, when we should all be saving more? ([Location 880](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=880))
+    - I had opted not to learn any of the same skills my parents had, knowing I could pay—and cheap prices, at that—for everything instead. I valued convenience over the experience of doing anything for myself. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=1330))
+    - Your values should not be your aspirations—confusing the two is just one of the reasons I used to buy things for the ideal version of myself. ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=2166))
+    - Go through each room of your home and write down the top five items you have the most of. ([Location 2180](https://readwise.io/to_kindle?action=open&asin=B0767XNB47&location=2180))

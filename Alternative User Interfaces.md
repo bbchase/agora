@@ -1,0 +1,39 @@
+- 
+- Looking at computer interfaces that don’t use the [[desktop metaphor]]
+- Desktop Alternatives
+    - Bumptop
+        - https://web.archive.org/web/20190109124217/http://honeybrown.ca/Portfolio/pages/Slide2.html
+        - https://sheehantu.wordpress.com/category/bumptop/
+    - Lifestreams
+        - http://www.cs.yale.edu/homes/freeman/lifestreams.html
+    - Humane Interface by [[Jef Raskin]], Canon Cat
+        - https://web.archive.org/web/20141025053109/http://www.jagshouse.com/swyft.html
+        - Leap
+            - https://www.youtube.com/watch?v=o_TlE_U_X3c
+    - DOOM Interface
+        - https://www.cs.unm.edu/~dlchao/flake/doom/
+    - Looking Glass
+        - https://www.youtube.com/watch?v=JXv8VlpoK_g
+    - Microsoft Bob
+        - http://www.telecommander.com/pics/links/application%20software/microsoft/Microsoft_Bob_1_0/Microsoft_Bob_1_0.htm
+    - Archy
+        - Original: https://github.com/MySheep/Archy
+        - Bug fixed: https://github.com/DanielFeichtinger/Archy
+        - https://en.wikipedia.org/wiki/Archy#Zoomworld
+    - Ubiquity (Firefox plugin)
+        - https://en.wikipedia.org/wiki/Ubiquity_(Firefox)
+        - https://wiki.mozilla.org/Labs/Ubiquity
+    - Enso launcher
+        - https://web.archive.org/web/20080208093158/http://humanized.com/
+- 
+- Refrences
+    - https://blog.chron.com/techblog/2006/06/is-bumptop-your-new-desktop/
+    - https://www.apple-history.com/gui_raskin2
+    - https://archive.org/stream/byte-magazine-1987-10-rescan/1987_10_BYTE_12-11_Heuristic_Algorithms#page/n125/mode/2up
+    - [Desktop interface: a metaphor that needs some work](https://extras.denverpost.com/enduser/digital0110.htm)
+    - https://www.osnews.com/story/13974/the-desktop-is-changing-but-to-what/
+    - Desktop Metaphor: https://web.archive.org/web/20110604224711/http://www.csdl.tamu.edu/~l0f0954/academic/cpsc610/hw2-3.htm
+        - https://web.archive.org/web/20110604223547/http://www.csdl.tamu.edu/~l0f0954/academic/cpsc610/hw2.htm
+    - Placeless documents: https://web.archive.org/web/20080517040812/http://www.parc.xerox.com/csl/projects/placeless/
+    - https://bytebaker.com/2006/06/06/experimental-computer-interfaces/
+    - 

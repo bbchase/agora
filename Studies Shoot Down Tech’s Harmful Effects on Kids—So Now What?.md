@@ -1,0 +1,7 @@
+- Author:: [[Jordan Shapiro]]
+- Full Title:: Studies Shoot Down Tech’s Harmful Effects on Kids—So Now What?
+- Category:: [[articles]]
+- URL:: https://getpocket.com/explore/item/studies-shoot-down-tech-s-harmful-effects-on-kids-so-now-what
+- ### Highlights first synced by [[Readwise]] [[October 10th, 2020]]
+    - There has never been conclusive evidence that screens are a direct cause of harm. But couple correlation with the fear of change, and that’s reason enough, apparently, for grownups to treat digital devices as suspect. It turns out, the prejudice wasn’t warranted. 
+    - The authors, Amy Orben and Przybylski, argue that prior research, which examined the impact of social media on teens and tweens, was based on weak correlations and insufficiently comprehensive methods, and therefore drew false conclusions. When they analyzed the same data, they found that “the association of well-being with regularly eating potatoes was nearly as negative as the association with technology use, and wearing glasses was more negatively associated with well-being.” To put a number on it: Digital tech use explains about 0.4 percent of the variation in well-being, the researchers write. “Taking the broader context of the data into account suggests that these effects are too small to warrant policy change.” 

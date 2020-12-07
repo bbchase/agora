@@ -1,0 +1,48 @@
+- https://nesslabs.com/mind-garden
+    - guide
+        - First, you need to seed your mind garden with quality content.
+            - Having a diverse information diet is more important than striving for an unattainably perfect information diet.
+        - Take notes
+            - https://nesslabs.com/generation-effect
+            - you remember things better when you make your own version of it. 
+        - Tend the garden 
+            - take clipping from previous ideas
+            - graft parts of ideas into others
+        - Share the seeds with others
+            - make some ideas public
+    - Creating the garden
+        - Examples 
+            - https://notes.andymatuschak.org/
+                - [[evergreen notes]]
+            - https://tomcritchlow.com/2019/02/17/building-digital-garden/
+                - coined the term
+                - streams, campfires, gardens
+            - https://joelhooks.com/digital-garden
+            - https://www.gwern.net/
+            - https://meaningness.com/
+                - more of a book
+            - https://twitter.com/Mappletons/status/1250532315459194880
+                - list by Maggie appleton
+            - https://www.mentalnodes.com/
+        - Note -> Garden -> Publish
+    - I think these ideas all make sense to me, but I need to think about how to actually use them. I can collect interesting articles or go off on tangents about intellectually interesting ideas, but in order to make this a useful tool and not just a toy, I think I need to fill it with things that I actually use. That probably means a lot of [[networking]] knowledge right now. 
+    - It is interesting though, that being in this space has piqued my interest in other areas of knowledge. I don’t know if that’s just seeing a trend, nostalgia for previous musings, or a real interest. 
+    - Another way to think about this: Where could I add meaningful thoughts to the public sphere. Where might I have a hope of contributing?
+    - https://maggieappleton.com/garden-history
+        - Mark Bernstein's 1998 essay [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html)
+        - with clear writing, you usually don't need complex navigation unless  the subject matter ' especially complex
+        - Ridgid structure is costly and pulls attention away from the message. You want traffic to center around  the best pages, not navigation 
+        - https://wiki.c2.com/?WikiGardener
+        - https://wiki.c2.com/?WikiGnome
+        - Mike Caufield keynote on [The Garden and the Stream: a Technopastoral](https://www.youtube.com/watch?v=ckv_CjyKyZY&feature=emb_logo)
+            - essay: https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
+            - " we have been swept away by streams"
+            - "streams are fleeting. They surface the Zetigeisty thoughts of the last 24 hours. They are not designed to accumulate knowledge, connect disparate information, or mature over time.”
+            - Articles present an opinion. Gardens- collections of connected ideas - don't know what they think yet
+            - 
+- other related ideas
+    - web rings
+    - wikis
+    - [[Roam as a browser]]
+    - Blogs
+    - 

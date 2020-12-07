@@ -1,0 +1,9 @@
+- Author:: [[Jon Kabat-Zinn]]
+- Full Title:: Wherever You Go, There You Are
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51zAVNhacqL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - it has everything to do with waking up and living in harmony with oneself and with the world. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B0037B6QSY&location=172))
+    - they have learned something which may now be profoundly beneficial in the West to counterbalance our cultural orientation toward controlling and subduing nature rather than honoring that we are an intimate part of it. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B0037B6QSY&location=178))
+    - Mindfulness means paying attention in a particular way: on purpose, in the present moment, and nonjudgmentally. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B0037B6QSY&location=185))
+    - the most important point is to be yourself and not try to become anything that you are not already. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B0037B6QSY&location=206))

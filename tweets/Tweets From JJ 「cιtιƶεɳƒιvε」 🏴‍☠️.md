@@ -1,0 +1,7 @@
+- Author:: [[@CTZN5 on Twitter]]
+- Full Title:: Tweets From JJ 「cιtιƶεɳƒιvε」 🏴‍☠️
+- Category:: [[tweets]]
+- URL:: https://twitter.com/CTZN5
+- ### Highlights first synced by [[Readwise]] [[November 18th, 2020]]
+    - "The intentionality of an agent with behavior sufficiently indistinguishable from malice, is irrelevant." (JJ's razor > Hanlon's 😉.) @cr1901 
+        - **Note**: Save

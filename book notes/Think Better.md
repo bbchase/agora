@@ -1,0 +1,49 @@
+- Author:: [[Tim Hurson]]
+- Full Title:: Think Better
+- Category:: [[books]]
+- ### My Notes
+    - What’s going on?
+        - What's the itch?
+        - What's the Impact?
+        - What's the Information?
+        - Who's involved?
+        - What's the Vision
+    - What is Success?
+        - Target Futures
+        - DRIVE
+            - D = Do. What do you want your solution to do?
+            - R = Restrictions. What changes you need to avoid?
+            - I = Investment.  What resources can you allocate, and what are your limits?
+            - V = Values. What values do you need to follow in achieving your goals?
+            - E = Essential outcomes. What targets do you need to meet?
+    - What is the Question?
+        - How might we?
+        - Know/Wonder
+        - AIM
+    - Generate answers - as many as possible
+        - C5 stands for Cull, Cluster, Combine, Clarify, and Choose
+        - Don't dismiss crazy ideas
+        - Choose the best one
+    - Forge the Solution
+        - Evaluate most promising answers (I-39)
+        - Stress test, improve, refine
+    - Align Resources
+        - Actions, accountability, materials, key players
+    - Thinking techniques
+        - Stay in the question (brainstorm longer than you think you need to, after you think you've answered the question)
+        - The third third
+            - “How else might we solve the problem?”
+            - “Who else might be involved?”
+            - "What else haven’t we thought of yet?”
+        - Wind Tunnel - set a timer and list as many ideas as you can
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - We may think we think with our cortex, but often our “higher-function thinking” is merely a matter of rationalizing a decision the gator has already made. (Location 520)
+    - to think effectively, it is necessary to view problems as a whole rather than as the sum of their component parts. (Location 714)
+    - C5 stands for C ull, C luster, C ombine, C larify, and C hoose. (Location 3014)
+    - The UP stands for “underlying principle.” The method is very simple. It asks, “What is the underlying principle behind this idea? How can it be practically applied?” (Location 3047)
+    - It is very important that you proceed through the Evaluation Screen criterion by criterion, completing one column at a time, rather than going through it by ideas. If you evaluate a single idea first (by each of your criteria before moving on to the next idea), you may inadvertently be setting up that idea as a benchmark against which all the other ideas will be measured. (Location 3161)
+    - Many versions of decision matrices use finer calibrations, but those more complex systems generally fail on two counts. First, our perceptions are usually not as fine as the calibrations that are proposed. (Location 3203)
+    - Second, even if you could make such fine distinctions, is the item that scores 18 better than the one that scores 17? Not necessarily. (Location 3208)
+    - demonstrated that far from aiding effective decision making, intense analysis can actually result in poorer decisions than relying on one’s “gut. (Location 3214)
+    - for now, move forward with the one idea (or possibly a combi- nation of ideas) that you have the most energy to develop. (Location 3237)
+    - POWER is an acronym for P ositives, O bjections, W hat else, E nhancements, and R emedies. POWER asks five basic questions: • P ositives: What’s good about the idea? Why might it succeed? • O bjections: What are the idea’s flaws? Why might it fail? • W hat else?: What else might be in the idea that hasn’t been articulated yet? • E nhancements: How might the positives be made even stronger? • R emedies: How might the objections be overcome? (Location 3246)

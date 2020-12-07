@@ -1,0 +1,9 @@
+- Author:: [[Neil Gaiman and Terry Pratchett]]
+- Full Title:: Good Omens
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51%2BoeM83oDL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - so he was just about to say something like, I bet it needs a lot of wire, when the Bentley rolled to a halt at the cemetery gate. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B0054LJGWS&location=179))
+    - Offer people a new creed with a costume and their hearts and minds will follow. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B0054LJGWS&location=349))
+    - “Heaven has no taste.” “Now—” “And not one single sushi restaurant.” A look of pain crossed the angel’s suddenly very serious face. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B0054LJGWS&location=728))
+    - (which had just ceased to be a slightly vinegary Beaujolais, and had become a quite acceptable, but rather surprised, Château Lafite 1875), ([Location 950](https://readwise.io/to_kindle?action=open&asin=B0054LJGWS&location=950))

@@ -1,0 +1,6 @@
+- Author:: [[Richard Florida]]
+- Full Title:: The New Urban Crisis
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OP3-yTBML._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - enduring success in the new people-driven, place-based economy turned on doing the smaller things that made cities great places to live and work—things like making sure there were walkable, pedestrian-friendly streets, bike lanes, parks, exciting art and music scenes, and vibrant areas where people could gather in cafés and restaurants. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B01K3WN4TI&location=125))

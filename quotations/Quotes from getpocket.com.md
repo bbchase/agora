@@ -1,0 +1,7 @@
+- Author:: [[getpocket.com]]
+- Full Title::
+- Category:: [[articles]]
+- URL:: https://getpocket.com/explore/item/you-have-more-than-enough-time-you-re-just-not-spending-it-right
+- ### Highlights first synced by [[Readwise]] [[October 10th, 2020]]
+    - “Time is the most valuable coin in your life. You and you alone will determine how that coin will be spent. Be careful that you do not let other people spend it for you,” says Carl Sandburg. 
+    - Seneca offers powerful insights into the art of living. He observed, “It is not that we have so little time but that we lose so much. … The life we receive is not short but we make it so; we are not ill provided but use what we have wastefully.” 

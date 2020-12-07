@@ -1,0 +1,8 @@
+- Author:: [[Sam Gerstenzang]]
+- Full Title:: The Internet of Very Small Computers Masquerading as Things
+- Category:: [[articles]]
+- URL:: https://medium.com/p/598c8c6465c2
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - Apple is unleashing its fourth revolution in typical Apple fashion but it is atypically quiet about it. 
+    - Apple is quietly getting very good at shipping very small computers that charge very rapidly, and thus can be unanchored ––unlike Google Home or Amazon Echo. 
+    - This is what the “Internet of Things” missed… the important part wasn’t the internet, but the “thing.” 

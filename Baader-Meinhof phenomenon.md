@@ -1,0 +1,3 @@
+- [What's the Baader-Meinhof phenomenon?](https://science.howstuffworks.com/life/inside-the-mind/human-brain/baader-meinhof-phenomenon.htm)
+- frequency illusion or recency illusion
+- 

@@ -1,0 +1,42 @@
+- https://medium.com/better-humans/quit-your-phone-addiction-using-methods-that-work-for-smokers-cdb44ce840
+- What didn’t work
+    - Turning off notifications: You just get anxious and open apps more
+    - Deleting apps: You just use them in the browser 
+    - Use focus apps: You just disable them
+    - Don’t check your phone cold turkey: HAHAHA
+- Things that can work
+    - Substitution Method - replicate the muscle memory
+        - Put something else in your pocket that you can pull out? A Notepad?
+        - White a todo list
+        - Write a daydream project list
+        - Practice gratitude
+        - Outline a story, blog post, or letter you’ll write later
+        - Write a haiku about your surroundings or a recent experience
+        - List habits you want to drop, adopt, or try
+        - List 10 idea for anything ([Idea Machine](https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/))
+        - [Read a poem](https://itunes.apple.com/us/app/poetry-from-the-poetry-foundation/id370143863)
+    - Physical Substitutions
+        - Stretch for 30 seconds
+        - Do 20 calf raises
+        - Do standing push-ups
+    - Urge surfing - ride the wave. There’s a 20-minute ramp-up in cravings, but then it subsides at about 30 minutes
+        - Author thought this was very boring. Maybe overkill for phone addiction, but better for things like drugs, slot machines, or sugar
+        - Process
+            - Think of the urge as a wave. No matter how intense it feels, it will break and disappear
+            - Focus on **one** physical area of your body where you can feel the urge
+            - Pay attention to the sensation
+            - Breathe normally as you pay attention. 
+            - Be curious about how the sensation changes over time
+            - When you have thoughts about the urge, (wishing it would go away, wishing you could give in), don’t judge the thought, just be curious about it and then notice whether your physical sensations have changed
+            - Repeat this process with any other part of your body that feels a sensation as part of the urge
+            - Notice if the urge is getting stronger or weaker
+            - Eventually, the urge will subside
+    - Alan Carr’s Method
+        - Learn about the negatives. Have that info readily accessible (why don’t you want to keep doing this)
+        - There’s a disconnect between what people want and what we enjoy
+            - You might strongly want a treat, but it’s only OK when you eat it. You might feel doing an activity is too much of a hassle, but you enjoy it when you go do it
+        - Be mindful. How does the craving or thing you were avoiding actually feel when doing it vs how you predicted it would feel. Did it actually make you feel better, more relaxed, less anxious, etc?
+        - How do you feel before picking up the phone? How do you feel after a minute?
+        - Don’t think “Oh god, I need to quit, this is going to suck,” think, “I can’t wait until after I’ve quit! It’s going to be so nice!”
+        - Author says this was by far the most effective method for her
+        - 

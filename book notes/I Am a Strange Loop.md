@@ -1,0 +1,2 @@
+- "I think, therefore I think I am. It may turn out that the "I" which Descartes discovered is actually the demon he was trying to guard against. It is the I that fools itself into thinking that it exists. It is Berkeley's mind observing itself and therefore causing itself to exist. It is God observing himself — the universe becoming self-aware. A strange loop, lifting itself up by it's boot straps."
+- 

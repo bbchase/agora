@@ -1,0 +1,8 @@
+- Date:: Saturday, Oct 7, 2017, 11:47 PM
+- Link:: https://www.evernote.com/shard/s1/nl/48981/1747e52a-abf2-4436-b0a8-68e1042f0696?title=Ask%20yourself%20these%206%20questions
+- 1. Did I do my best to set clear goals?
+- 2. Did I do my best to make progress toward my goals?
+- 3. Did I do my best to find meaning?
+- 4. Did I do my best to be happy?
+- 5. Did I do my best to build positive relationships?
+- 6. Did I do my best to be fully engaged?

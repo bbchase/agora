@@ -1,0 +1,15 @@
+- Author:: [[Michael Lopp]]
+- Full Title:: Managing Humans: Biting and Humorous Tales of a Software Engineering Manager
+- Category:: [[articles]]
+- URL:: https://learning.oreilly.com/library/view/managing-humans-biting/9781484221587/
+- ### Highlights first synced by [[Readwise]] [[September 19th, 2020]]
+    - The successful off-site is one that maps the discoveries of the off-site to the reality of the work. Bright-and-shiny inflection points are full of energy, but unless that energy is carefully channeled back into the building and immediately acted upon, all an off-site represents is a frustrating opportunity to dream, but not to act. 
+        - **Note**: 2020-08-2316. Fred Hates the Off-Sitehttps://learning.oreilly.com/a/managing-humans-biting/53092055/
+    - I believe that each time your company doubles in size, it needs to reinvent how it communicates, and each subsequent transformation is increasingly radical and foreign 
+        - **Note**: 2020-08-2316. Fred Hates the Off-Sitehttps://learning.oreilly.com/a/managing-humans-biting/53086378/
+    - Let’s start with the most basic rule of listening: If they don’t trust you, they aren’t going to say shit. 
+        - **Note**: 2020-08-2315. You’re Not Listeninghttps://learning.oreilly.com/a/managing-humans-biting/53084043/
+    - The use of subterfuge for good means keeping the intent honest. If you’re going commando to do what you believe is right, it doesn’t mean someone isn’t going to be pissed, but it should allow you to sleep at night. 
+        - **Note**: 2020-08-2313. Subtlety, Subterfuge, and Silencehttps://learning.oreilly.com/a/managing-humans-biting/53083563/
+    - I’m certain that companies that exhibit this poor communication structure are the same ones that have reputations for notoriously tyrannical CEOs. Maybe they’re not tyrants. Maybe they’re surrounded by poor communicators. Or maybe they are tyrants. I can’t tell from where I’m sitting. 
+        - **Note**: 2020-08-2311. Dissecting the Mandatehttps://learning.oreilly.com/a/managing-humans-biting/53083248/

@@ -1,0 +1,11 @@
+- Author:: [[Michael Crichton]]
+- Full Title:: Jurassic Park
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/51Sh8gB0bfL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - But if planting deadly ferns at poolside was any indication, then it was clear that the designers of Jurassic Park had not been as careful as they should have been. ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B007UH4D3G&location=1578))
+    - Grant paused. He had seen the plans for the lodge, and he didn’t remember bars on the skylight. In fact, these bars appeared to be a rather crude addition. A black steel frame had been constructed outside the glass walls, and the bars welded to the frame. ([Location 1593](https://readwise.io/to_kindle?action=open&asin=B007UH4D3G&location=1593))
+    - The computer system is secure.” ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B007UH4D3G&location=2371))
+    - They must have seen by now that we have everything under control. ([Location 2717](https://readwise.io/to_kindle?action=open&asin=B007UH4D3G&location=2717))
+    - The radio crackled. “Now you see the flaw in your procedures,” Malcolm said. “You only tracked the expected number of dinosaurs. You were worried about losing animals, and your procedures were designed to advise you instantly if you had less than the expected number. But that wasn’t the problem. The problem was, you had more than the expected number.” ([Location 2974](https://readwise.io/to_kindle?action=open&asin=B007UH4D3G&location=2974))
+    - “Is anyone watching the park at night?” ([Location 3010](https://readwise.io/to_kindle?action=open&asin=B007UH4D3G&location=3010))

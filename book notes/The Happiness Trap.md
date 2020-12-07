@@ -1,0 +1,10 @@
+- Author:: [[Russ Harris and Steven Hayes]]
+- Full Title:: The Happiness Trap
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/41BgFQraPtL._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - the normal thinking processes of a healthy human mind will naturally lead to psychological suffering. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B004XI12O8&location=255))
+    - The fact is, we have much less control over our thoughts and feelings than we would like. It’s not that we have no control; it’s just that we have much less than the “experts” would have us believe. ([Location 269](https://readwise.io/to_kindle?action=open&asin=B004XI12O8&location=269))
+    - You hide away or escape from people, places, situations, or activities that tend to give rise to uncomfortable thoughts or feelings. For example, you drop out of a course or cancel a social event in order to avoid feelings of anxiety. ([Location 439](https://readwise.io/to_kindle?action=open&asin=B004XI12O8&location=439))
+    - You distract yourself from unwanted thoughts and feelings by focusing on something else. For example, you’re feeling bored or anxious, so you smoke a cigarette or eat some ice cream or go shopping. Or you’re worried about some important issue at work, so you spend all night watching TV to try to keep your mind off it. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B004XI12O8&location=444))
+    - You try to cut off from your thoughts You try to take charge of your and feelings by “zoning out” or making yourself numb, most commonly through the use of medication, drugs, or alcohol. Some people do their zoning out by sleeping excessively or simply by “staring at the walls.” ([Location 451](https://readwise.io/to_kindle?action=open&asin=B004XI12O8&location=451))

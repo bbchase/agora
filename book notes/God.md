@@ -1,0 +1,6 @@
+- Author:: [[Reza Aslan]]
+- Full Title:: God
+- Category:: [[books]]
+- ![](https://images-na.ssl-images-amazon.com/images/I/510bNRBMS6L._SL400_.jpg)
+- ### Highlights first synced by [[readwise]] [[September 2nd, 2020]]
+    - For when we endow God with human attributes, we essentially divinize those attributes, so that everything good or bad about our religions is merely a reflection of everything that is good or bad about us. Our desires become God’s desires, but without boundaries. Our actions become God’s actions, but without consequence. We create a superhuman being endowed with human traits, but without human limitations. We fashion our religions and cultures, our societies and governments, according to our own human urges, all the while convincing ourselves that those urges are God’s. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B01MR8VAQF&location=116))

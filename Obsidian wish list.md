@@ -1,0 +1,6 @@
+- [ ] Insert timestamp
+- [ ] select, create bullet or ordered list (formatting)
+- [ ] open to today's note
+	- cmd+shift+D is set to do it now
+- [ ] Quick open a file to add a note to it & close it again (overlay) without disturbing workspace
+- [ ] arrow down through search results
